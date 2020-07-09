@@ -1,15 +1,15 @@
 h1 {
-    class: "mt-5";
+    margin-top: 3rem;
 }
 
 h3 {
-    class: "mt-3";
+    margin-top: 1.5rem;
 }
 
 blockquote {
-    class: "mt-3";
+    margin-top: 1.5rem;
 }
 
 p {
-    class: "mt-3";
+    margin-top: 1.5rem;
 }
