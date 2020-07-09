@@ -61,7 +61,7 @@
 </p>
 
 <p class="text-right">
-    <a href="/education" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+    <a href="/education" class="btn btn-primary disabled" role="button" aria-disabled="true">
         Read More
     </a>
 </p>
@@ -115,7 +115,7 @@
 </p>
 
 <p class="text-right">
-    <a href="/programming" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+    <a href="/programming" class="btn btn-primary disabled" role="button" aria-disabled="true">
         Read More
     </a>
 </p>
@@ -158,7 +158,7 @@
 </div>
 
 <p class="text-right">
-    <a href="/teaching" class="btn btn-secondary" role="button">
+    <a href="/teaching" class="btn btn-primary" role="button">
         Read More
     </a>
 </p>
@@ -198,7 +198,7 @@
 </p>
 
 <p class="text-right">
-    <a href="/languages" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+    <a href="/languages" class="btn btn-primary disabled" role="button" aria-disabled="true">
         Read More
     </a>
 </p>
@@ -241,7 +241,7 @@
 </blockquote>
 
 <p class="text-right">
-    <a href="/sports" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+    <a href="/sports" class="btn btn-primary disabled" role="button" aria-disabled="true">
         Read More
     </a>
 </p>
@@ -268,7 +268,7 @@
 </p>
 
 <p class="text-right">
-    <a href="/music" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+    <a href="/music" class="btn btn-primary disabled" role="button" aria-disabled="true">
         Read More
     </a>
 </p>
@@ -293,7 +293,7 @@
 </div>
 
 <p class="text-right">
-    <a href="/art" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+    <a href="/art" class="btn btn-primary disabled" role="button" aria-disabled="true">
         Read More
     </a>
 </p>
