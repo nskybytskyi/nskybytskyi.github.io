@@ -63,7 +63,7 @@
 <p class="text-right">
     <a href="/education" class="btn btn-secondary disabled" role="button" aria-disabled="true">
         Read More
-    </button>
+    </a>
 </p>
 
 <h1 class="mt-5" id="programming">
@@ -117,7 +117,7 @@
 <p class="text-right">
     <a href="/programming" class="btn btn-secondary disabled" role="button" aria-disabled="true">
         Read More
-    </button>
+    </a>
 </p>
 
 <div class="row">
@@ -160,7 +160,7 @@
 <p class="text-right">
     <a href="/teaching" class="btn btn-secondary" role="button">
         Read More
-    </button>
+    </a>
 </p>
 
 <h1 class="mt-5" id="languages">
@@ -200,7 +200,7 @@
 <p class="text-right">
     <a href="/languages" class="btn btn-secondary disabled" role="button" aria-disabled="true">
         Read More
-    </button>
+    </a>
 </p>
 
 <h1 class="mt-5" id="sports">
@@ -243,7 +243,7 @@
 <p class="text-right">
     <a href="/sports" class="btn btn-secondary disabled" role="button" aria-disabled="true">
         Read More
-    </button>
+    </a>
 </p>
 
 <h1 class="mt-5" id="music">
@@ -270,7 +270,7 @@
 <p class="text-right">
     <a href="/music" class="btn btn-secondary disabled" role="button" aria-disabled="true">
         Read More
-    </button>
+    </a>
 </p>
 
 <h1 class="mt-5" id="art">
@@ -295,7 +295,7 @@
 <p class="text-right">
     <a href="/art" class="btn btn-secondary disabled" role="button" aria-disabled="true">
         Read More
-    </button>
+    </a>
 </p>
 
 <h1 class="mt-5" id="other">
