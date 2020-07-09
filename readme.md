@@ -110,7 +110,7 @@
 
 <div class="row">
     <div class="col-12 text-center">
-        <h5>me solving some competetive programming problem</h5>
+        <h5>solving some competetive programming problem</h5>
         <img src="./assets/programming.jpg" alt="me-programming" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
