@@ -72,7 +72,7 @@
 
 <h3>The beginning</h3>
 <p>
-    In university I got interested in programming, especially in competitive.  It didn't come easy to me, as I failed to get <em>excellent</em> in my freshman pogramming course.  I eventually proceeded to get 100/100 in my next programming course, entered <a href="https://yandexdataschool.com/">Yandex School of Data Analysis</a> after my sophomore year.
+    In university I got interested in programming, especially in competitive.  It didn't come easy to me, as I failed to get <em>excellent</em> in my freshman programming course.  I eventually proceeded to get 100/100 in my next programming course, entered <a href="https://yandexdataschool.com/">Yandex School of Data Analysis</a> after my sophomore year.
 </p>
 
 <blockquote class="blockquote text-center">
@@ -138,7 +138,7 @@
 <blockquote class="blockquote text-center">
     Nikita influenced Fedir a lot.  He brought the initial interest in olympiads.
     <footer class="blockquote-footer">
-        Mikhail and Nataliya Yudiny, Fedir's parents.
+        Mikhail and Nataliya, Fedir's parents.
     </footer>
 </blockquote>
 
