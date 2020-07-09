@@ -93,7 +93,7 @@
 
 <h3 class="mt-3">Yandex School of Data Analysis</h3>
 <p>
-    In May 2019, after the internship I came back to Yandex School of Data Analysis, completing various courses, ranging from programming languages and advanced mathematical courses to external memory algorithms and natural language processing.  I like this place, as it gathers many people with completely different backgrounds but with one goal of advanced education not available at most post-soviet and European universities.
+    In May 2019, after the internship, I came back to Yandex School of Data Analysis, completing various courses, ranging from programming languages and advanced mathematical courses to external memory algorithms and natural language processing.  I like this place, as it gathers many people with completely different backgrounds but with one goal of advanced education not available at most post-soviet and European universities.
 </p>
 
 <blockquote class="blockquote text-center">
@@ -120,7 +120,7 @@
 </h1>
 
 <p>
-    Ever since I retired from the professional mathematical sport I taught others.  Two-time gold IMO medalist <a href="http://imo-official.org/participant_r.aspx?id=28220">Fedir Yudin</a> is the one with whom I interacted the most.  I also teach at the variety of Ukrainian training camps and summer schools.
+    Ever since I retired from the professional mathematical sport, I taught others.  Two-time gold IMO medalist <a href="http://imo-official.org/participant_r.aspx?id=28220">Fedir Yudin</a> is the one with whom I interacted the most.  I also teach at the variety of Ukrainian training camps and summer schools.
 </p>
 
 <blockquote class="blockquote text-center">
@@ -184,7 +184,7 @@
 </h1>
 
 <p>
-    I love running and cycling.  I took part in two Kyiv city half marathons in the falls of 2018 and 2019, and plan to participate in more events in the future.  In the latter years cycling becomes an increasingly popular, fast, and most importantly safe way to move around Kyiv, despite the very slow official approvement of bike routes, and <a href="http://kievvlast.com.ua/news/klichko-zayavil-chto-v-kieve-obshhaya-dlina-velodorozhek-sostavlyaet-pochti-100-kilometrov?noredirect=true">hilarious length measurement manipulations</a>.
+    I love running and cycling.  I took part in two Kyiv city half-marathons in the falls of 2018 and 2019, and plan to participate in more events in the future.  In the latter years cycling becomes an increasingly popular, fast, and most importantly safe way to move around Kyiv, despite the very slow official approvement of bike routes, and <a href="http://kievvlast.com.ua/news/klichko-zayavil-chto-v-kieve-obshhaya-dlina-velodorozhek-sostavlyaet-pochti-100-kilometrov?noredirect=true">hilarious length measurement manipulations</a>.
 </p>
 
 <blockquote class="blockquote text-center">
