@@ -6,7 +6,7 @@
 </blockquote>
 
 <h1 class="mt-5" id="education">
-    Education
+    <i class="fa fa-graduation-cap"></i>Education
 </h1>
 
 <h3 class="mt-3">High School</h3>
@@ -61,7 +61,7 @@
 </p>
 
 <h1 class="mt-5" id="programming">
-    Programming
+    <i class="fa fa-laptop-code"></i>Programming
 </h1>
 
 <h3 class="mt-3">The beginning</h3>
@@ -116,7 +116,7 @@
 </div>
 
 <h1 class="mt-5" id="teaching">
-    Teaching
+    <i class="fa fa-chalkboard-teacher"></i>Teaching
 </h1>
 
 <p>
@@ -146,7 +146,7 @@
 </div>
 
 <h1 class="mt-5" id="languages">
-    Languages
+    <i class="fa fa-book"></i>Languages
 </h1>
 
 <h3 class="mt-3">Linguistics</h3>
@@ -180,7 +180,7 @@
 </p>
 
 <h1 class="mt-5" id="sports">
-    Sports
+    <i class="fa fa-bicycle"></i>Sports
 </h1>
 
 <p>
@@ -212,12 +212,12 @@
 <blockquote class="blockquote text-center">
     You look a bit like Tony Stark.
     <footer class="blockquote-footer">
-        One of my friends Tania Sergienko.
+        My friend Tania Sergienko.
     </footer>
 </blockquote>
 
 <h1 class="mt-5" id="music">
-    Music
+    <i class="fa fa-music"></i>Music
 </h1>
 
 <h3 class="mt-3">Technical</h3>
@@ -238,7 +238,7 @@
 </p>
 
 <h1 class="mt-5" id="art">
-    Art
+    <i class="fa fa-paint-brush"></i>Art
 </h1>
 
 <p>
@@ -258,7 +258,7 @@
 
 
 <h1 class="mt-5" id="other">
-    Other
+    <i class="fa fa-ellipsis-h"></i>Other
 </h1>
 
 <div class="row">
