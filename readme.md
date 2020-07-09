@@ -60,6 +60,12 @@
     Thanks to <a href="https://www.instagram.com/me_supreme_being/">@me_supreme_being</a> for both shots.
 </p>
 
+<p class="text-right">
+    <a href="/education" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+        Read More
+    </button>
+</p>
+
 <h1 class="mt-5" id="programming">
     <i class="fa fa-laptop-code"></i> Programming
 </h1>
@@ -108,6 +114,12 @@
     After retiring from olympiad mathematics I wanted to keep my mind busy with some new challenges.  Programming problems turned out to be the perfect choice.  I join online contests quite often.  My favourite platforms and corresponding highest ratings are the following: <a href="https://codeforces.com/profile/Skybytskyi.Nikita">CodeForces</a> (2138), <a href="https://www.codechef.com/users/sky_nik">Codechef</a> (2174), <a href="hackerrank.com/nskybytskyi">HackerRank</a> (2185) and <a href="https://leetcode.com/nskybytskyi/">LeetCode</a> (2526).  Some of my contest codes can be found <a href="https://github.com/Sky-Nik/contest-cpp">here</a> (C++) and <a href="https://github.com/Sky-Nik/contest-python">here</a> (python).
 </p>
 
+<p class="text-right">
+    <a href="/programming" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+        Read More
+    </button>
+</p>
+
 <div class="row">
     <div class="col-12 text-center">
         <h5>solving some competetive programming problem</h5>
@@ -145,6 +157,12 @@
     </div>
 </div>
 
+<p class="text-right">
+    <a href="/teaching" class="btn btn-secondary" role="button">
+        Read More
+    </button>
+</p>
+
 <h1 class="mt-5" id="languages">
     <i class="fa fa-book"></i> Languages
 </h1>
@@ -177,6 +195,12 @@
 <h3 class="mt-3">Other</h3>
 <p>
     I try to take a glimpse of many different languages.  In particular, I tried Spanish, French, Polish, and Czech.  Helps a lot to understand the general structures present in all languages.  Sometimes even helps to get a feeling of how native speakers think in their language.  I bet AIs from nearest future will tie linguistic background to some personality traits. 
+</p>
+
+<p class="text-right">
+    <a href="/languages" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+        Read More
+    </button>
 </p>
 
 <h1 class="mt-5" id="sports">
@@ -216,6 +240,12 @@
     </footer>
 </blockquote>
 
+<p class="text-right">
+    <a href="/sports" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+        Read More
+    </button>
+</p>
+
 <h1 class="mt-5" id="music">
     <i class="fa fa-music"></i> Music
 </h1>
@@ -237,6 +267,12 @@
     I prefer rock, classical, and electronic music, but I am not limited to these.  A better sense of my taste can be obtained by listening to my <a href="https://t.me/music_at_sky_nik">telegram channel</a>.  It is mainly for friends, hence not very crowded, but still contains a lot of music (over a thousand songs).
 </p>
 
+<p class="text-right">
+    <a href="/music" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+        Read More
+    </button>
+</p>
+
 <h1 class="mt-5" id="art">
     <i class="fa fa-paint-brush"></i> Art
 </h1>
@@ -256,6 +292,11 @@
     </div>
 </div>
 
+<p class="text-right">
+    <a href="/art" class="btn btn-secondary disabled" role="button" aria-disabled="true">
+        Read More
+    </button>
+</p>
 
 <h1 class="mt-5" id="other">
     <i class="fa fa-ellipsis-h"></i> Other
