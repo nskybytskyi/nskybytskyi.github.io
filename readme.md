@@ -11,7 +11,7 @@
 
 <h3 class="mt-3">High School</h3>
 <p>
-    From 2009 to 2016 I studied at physics and mathematics lyceum in Kyiv.  I participated in a lot of different competitions, ranging from city geography olympiad and national chemistry olympiad to 2016 <a href="http://imo-official.org/participant_r.aspx?id=26730">International Mathematical Olympiad</a> (IMO).  I won many different awards in many different sucjects, even though my main focus always remained on mathematics. 
+    From 2009 to 2016 I studied at physics and mathematics lyceum in Kyiv.  I participated in a lot of different competitions, ranging from city geography olympiad and national chemistry olympiad to 2016 <a href="http://imo-official.org/participant_r.aspx?id=26730">International Mathematical Olympiad</a> (IMO).  I won many different awards in many different subjects, even though my main focus always remained on mathematics. 
 </p>
 
 <blockquote class="blockquote text-center">
