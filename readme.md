@@ -1,4 +1,4 @@
-<blockquote class="blockquote text-center">
+<blockquote class="blockquote text-center mt-5">
     You are about to read the funniest CV ever.
     <footer class="blockquote-footer">
         My friend Illia Gron'.
