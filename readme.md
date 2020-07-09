@@ -41,13 +41,10 @@
 <div class="row">
     <div class="col-6 text-center">
         <h5>going to the last Friday lecture with cider</h5>
-    
         <img src="./assets/cider.jpg" alt="image-of-me-with-cider" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    
     <div class="col-6 text-center">
         <h5>sleeping wherever I can between lectures</h5>
-
         <img src="./assets/sleeping.jpg" alt="image-of-me-sleeping" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
@@ -104,6 +101,13 @@
     After retiring from olympiad mathematics I wanted to keep my mind busy with some new challenges.  Programming problems turned out to be the perfect choice.  I join online contests quite often.  My favourite platforms and corresponding highest ratings are the following: <a href="https://codeforces.com/profile/Skybytskyi.Nikita">CodeForces</a> (2138), <a href="https://www.codechef.com/users/sky_nik">Codechef</a> (2174), <a href="hackerrank.com/nskybytskyi">HackerRank</a> (2185) and <a href="https://leetcode.com/nskybytskyi/">LeetCode</a> (2526).  Some of my contest codes can be found <a href="https://github.com/Sky-Nik/contest-cpp">here</a> (C++) and <a href="https://github.com/Sky-Nik/contest-python">here</a> (python).
 </p>
 
+<div class="row">
+    <div class="col-12 text-center">
+        <h5>me solving some competetive programming problem</h5>
+        <img src="./assets/programming.jpg" alt="me-programming" class="rounded-circle img-fluid" data-holder-rendered="true">
+    </div>
+</div>
+
 <h1 class="mt-5" id="teaching">
     Teaching
 </h1>
@@ -126,13 +130,10 @@
 <div class="row">
     <div class="col-6 text-center">
         <h5>Fedir Yudin</h5>
-    
         <img src="./assets/fedir.jpg" alt="image-of-fedir" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    
     <div class="col-6 text-center">
         <h5>my mentees</h5>
-
         <img src="./assets/children.jpg" alt="image-of-children" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
@@ -193,13 +194,10 @@
 <div class="row">
     <div class="col-6 text-center">
         <h5>running medal</h5>
-    
         <img src="./assets/running.jpg" alt="my-running-medals" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    
     <div class="col-6 text-center">
         <h5>me on a bike</h5>
-
         <img src="./assets/biking.jpg" alt="image-of-me-biking" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
@@ -223,7 +221,6 @@
 <div class="row">
     <div class="col-12 text-center">
         <h5>me in Gorillaz style by <a href="https://www.instagram.com/mariia._sm/">Mariia Smyk</a></h5>
-    
         <img src="./assets/gorillaz.jpg" alt="me-in-gorillaz-style" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
@@ -244,13 +241,10 @@
 <div class="row">
     <div class="col-6 text-center">
         <h5>sunset at a lake</h5>
-    
         <img src="./assets/painting.jpg" alt="sunset-at-a-lake" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    
     <div class="col-6 text-center">
         <h5>plotting in matplotlib</h5>
-
         <img src="./assets/viskonsin.jpg" alt="plotting-in-matplotlib" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
@@ -263,13 +257,10 @@
 <div class="row">
     <div class="col-6 text-center">
         <h5>some official photo</h5>
-    
         <img src="./assets/official.jpg" alt="official-image-of-me" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    
     <div class="col-6 text-center">
         <h5>some casual photo</h5>
-
         <img src="./assets/casual.jpg" alt="casual-image-of-me" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
