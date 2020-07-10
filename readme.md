@@ -293,3 +293,7 @@ I do draw sometimes.  I do, however, plot <em>a bit</em> more often.  I consider
 <p class="text-center">
     They don't look all that different, do they?
 </p>
+
+<script>
+    $("img").addClass("rounded-circle img-fluid")
+</script>
