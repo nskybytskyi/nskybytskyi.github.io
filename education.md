@@ -1,4 +1,6 @@
-It is a more detailed description of my education.  It includes coursework, grades, achievements, etc.
+<p class="mt-3">
+  It is a more detailed description of my education.  It includes coursework, grades, achievements, etc.
+</p>
 
 # Physics and Mathematics Lyceum №208
 
@@ -140,11 +142,11 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
 # Taras Shevchenko National University of Kyiv
 
-Thought to be one of the best Ukrainian universities by many, yet has a whole bunch of problems if you look from the inside.  I entered the department of Cybernetics, which was renamed to the Computer Science and Cybernetics department later on.  People mainly call it CS or CSC department.  I majored in Applied Mathematics.  You can read my diploma [here](https://github.com/Sky-Nik/diploma/blob/master/diploma.pdf).
+Thought to be one of the best Ukrainian universities by many, yet has a whole bunch of problems if you look from the inside.  I entered the department of Cybernetics, which was renamed to the Computer Science and Cybernetics department later on.  Nowadays people mainly call it CS or CSC department.  I majored in Applied Mathematics.  You can read my diploma about different algorithms for solving variational inequality [here](https://github.com/Sky-Nik/diploma/blob/master/diploma.pdf).
 
 ### GPA
 
-94.7/100, the best in my group by quite a margin.  However, it depends on how to calculate it.  Officials suggest counting only exams (i.e., no pass -or-fail classes, even if those give you a grade), and this is exactly the way used here.  I also graduated with a red diploma (a.k.a. the High Honours).
+I graduated with a GPA of 94.7/100, the best in my group by quite a margin.  However, it depends on how to calculate it.  Officials suggest counting only exams (i.e., no pass -or-fail classes, even if those give you a grade), and this is the way used here.  I also graduated with a red diploma (a.k.a. the High Honours).
 
 ### Coursework
 
@@ -159,7 +161,7 @@ There are too many classes to list them in a linear fashion.  Hence, I suggest t
 
 ### Achievements
 
-I didn't take part in student olympiad a lot, but when I did I usually won.  All the following are math olympiads.
+I didn't take part in student olympiad a lot, but when I did &mdash; I usually won.  All the following are math olympiads.
 
 - 2017 (freshman):
 
@@ -179,7 +181,7 @@ I didn't take part in student olympiad a lot, but when I did I usually won.  All
 
     - first diploma at national olympiad;
 
-      <small>I easily qualified for IMC but decided not to go there. This year was funny because so did all top three contestants, resulting in the selected and actual team having only one member in common.</small>
+      <small>I qualified for IMC with ease but decided not to go there. This year was funny because so did all top three contestants, resulting in the selected and actual team having only one member in common.</small>
 
 - 2019 (junior):
 
@@ -187,21 +189,21 @@ I didn't take part in student olympiad a lot, but when I did I usually won.  All
 
       <small>Decided not to go to the national olympiad.</small>
 
-    - jury member (coordinator) at the [European Girls' Mathematical Olympiad](https://www.egmo.org/people/person1523/).
+    - I was a jury member (coordinator) at the [European Girls' Mathematical Olympiad](https://www.egmo.org/people/person1523/).
 
-    - wrote an [article](https://www.awesomemath.org/wp-pdf-files/math-reflections/mr-2019-06/mr_6_2019_ptolemys_sine_lemma.pdf) on olympiad geometry with Fedir Yudin, which was consequently published in [Mathematical Reflections](https://www.awesomemath.org/mathematical-reflections/archives/#toggle-id-4).
+    - Fedir Yudin and I wrote an [article](https://www.awesomemath.org/wp-pdf-files/math-reflections/mr-2019-06/mr_6_2019_ptolemys_sine_lemma.pdf) on olympiad geometry, published in [Mathematical Reflections](https://www.awesomemath.org/mathematical-reflections/archives/#toggle-id-4).
 
 - 2020 (senior):
 
     - second place at university olympiad;
 
-      <small>The youngsters tend to prepare more, whereas the veterans aim to solve interesting and tricky problems rather than to earn more points.  I realised that I am already too old for the olympiads, and decided not to go to the national olympiad, which was anyway cancelled because of the Covid19 later on.</small>
+      <small>The youngsters tend to prepare more, whereas the veterans aim to solve interesting and tricky problems rather than to earn more points.  I realized that I am too old for the olympiads, and decided not to go to the national olympiad.  It was later cancelled because of the Covid19 anyway.</small>
 
-    - a deputy leader of the Computer Science department team at the IMC.
+    - I was a deputy leader of the Computer Science department team at the IMC.
 
 # Yandex School of Data Analysis
 
-Remember that YSDA is a very challenging place to enter and to study?  Well, when you study there online it becomes twice as difficult.  Only ten people out of about a thousand applications are admitted into it, and less than half of the admitted completes the school.
+Remember that YSDA is a very challenging place to enter and to study?  Well, if you study there online, it becomes twice as difficult.  The admission rate for online study is about 5%, and even among those admitted less than a half eventually complete the school.
 
 ### Coursework
 
