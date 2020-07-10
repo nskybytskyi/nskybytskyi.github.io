@@ -94,6 +94,64 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
 # Taras Shevchenko National University of Kyiv
 
+Thought to be one of the best Ukrainian universities by many, yet has a hole bunch of problems if you look from the inside.  I entered the department of Cybernetics, which was consequently renamed to the Computer Science and Cybernetics department.  People mainly call is CS or CSC department.  I majored in the Applied Mathematics.  You can read my diploma [here](https://github.com/Sky-Nik/diploma/blob/master/diploma.pdf).
+
+### GPA
+
+94.7/100, the best in group by quite a margin.  However, it depends on how to calculate it.  Officials suggests counting only exams (i.e., no fail/pass classes, even if these give you a grade), and this is exaclty the way used here.  I also graduted with a red diploma (a.k.a. the High Honours).
+
+### Coursework
+
+There are too many classes to list them in a linear fashion.  Hence, I suggest taking a look at the following course tree:
+
+<div class="row">
+    <div class="col-12 text-center">
+        <img src="./assets/tree.jpg" alt="course-tree" class="img-fluid" data-holder-rendered="true">
+    </div>
+</div>
+
+### Achievements
+
+I didn't took part in student olympiad a lot, but when I did I usually won.  All the following are math olympiads.
+
+- 2017 (freshman):
+
+    - first place at university olympiad;
+
+      <small>It is pratically equivalent to city olympiad, as it is open for the students of other universities.</small>
+
+    - first diploma at national olympiad;
+
+    - silver medal at the International Mathematical Olympiad for University Students.
+
+      <small>Visiting Bulgaria once was fun, but it hosts the olympiad every year.  I thought that it is enough for me.</small>
+
+- 2018 (sophomore):
+
+    - first place at university olympiad;
+
+    - first diploma at national olympiad;
+
+      <small>I easily qualified for IMC, but decided not to go there. This year was funny because so did all top three contestans, resulting in the selected and actual team having only one member in common.</small>
+
+- 2019 (junior):
+
+    - first place at university olympiad;
+
+      <small>Decided not to go to the national olympiad.</small>
+
+    - jury member (coordinator) at the [European Girls' Mathematical Olympiad](https://www.egmo.org/people/person1523/).
+
+    - wrote an [article](https://www.awesomemath.org/wp-pdf-files/math-reflections/mr-2019-06/mr_6_2019_ptolemys_sine_lemma.pdf) on olympiad geometry with Fedir Yudin, which was consequently published in [Mathematical Reflections](https://www.awesomemath.org/mathematical-reflections/archives/#toggle-id-4).
+
+- 2020 (senior):
+
+    - second place at university olympiad;
+
+      <small>The youngsters tend to prepare more, whereas the veterans aim to solve interesting and tricky problems rather than earn more points.  I realised that I am already too old for the olympiads, and decided not to go to the national olympiad, which was anyway cancelled because the Covid19 later on.</small>
+
+    - a deputy leader of Computer Science department team at the IMC.
+
 # Yandex School of Data Analysis
 
 # Online Education
