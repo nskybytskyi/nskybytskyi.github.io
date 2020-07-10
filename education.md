@@ -165,29 +165,45 @@ I didn't take part in student olympiad a lot, but when I did &mdash; I usually w
 
 - 2017 (freshman):
 
-    - first place at university olympiad;
+    - first place at university olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-13" role="button" aria-expanded="false" aria-controls="collapse-13">&hellip;</a>
 
-      <small>It is practically equivalent to city olympiad, as it is open for the students of other universities.</small>
+      <div class="collapse" id="collapse-13">
+        <small>
+          It is practically equivalent to city olympiad, as it is open for the students of other universities.
+        </small>
+      </div>
 
     - first diploma at national olympiad;
 
-    - silver medal at the International Mathematical Olympiad for University Students.
+    - silver medal at the International Mathematical Olympiad for University Students<a class="btn btn-link" data-toggle="collapse" href="#collapse-14" role="button" aria-expanded="false" aria-controls="collapse-14">&hellip;</a>
 
-      <small>Visiting Bulgaria once was fun, but it hosts the olympiad every year.  I thought that it is enough for me.</small>
+      <div class="collapse" id="collapse-14">
+        <small>
+          Visiting Bulgaria once was fun, but it hosts the olympiad every year.  I thought that it is enough for me.
+        </small>
+      </div>
 
 - 2018 (sophomore):
 
     - first place at university olympiad;
 
-    - first diploma at national olympiad;
+    - first diploma at national olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-15" role="button" aria-expanded="false" aria-controls="collapse-15">&hellip;</a>
 
-      <small>I qualified for IMC with ease but decided not to go there. This year was funny because so did all top three contestants, resulting in the selected and actual team having only one member in common.</small>
+      <div class="collapse" id="collapse-15">
+        <small>
+          I qualified for IMC with ease but decided not to go there. This year was funny because so did all top three contestants, resulting in the selected and actual team having only one member in common.
+        </small>
+      </div>
 
 - 2019 (junior):
 
-    - first place at university olympiad;
+    - first place at university olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-16" role="button" aria-expanded="false" aria-controls="collapse-16">&hellip;</a>
 
-      <small>Decided not to go to the national olympiad.</small>
+      <div class="collapse" id="collapse-16">
+        <small>
+          Decided not to go to the national olympiad.
+        </small>
+      </div>
 
     - I was a jury member (coordinator) at the [European Girls' Mathematical Olympiad](https://www.egmo.org/people/person1523/).
 
@@ -195,9 +211,13 @@ I didn't take part in student olympiad a lot, but when I did &mdash; I usually w
 
 - 2020 (senior):
 
-    - second place at university olympiad;
+    - second place at university olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-17" role="button" aria-expanded="false" aria-controls="collapse-17">&hellip;</a>
 
-      <small>The youngsters tend to prepare more, whereas the veterans aim to solve interesting and tricky problems rather than to earn more points.  I realized that I am too old for the olympiads, and decided not to go to the national olympiad.  It was later cancelled because of the Covid19 anyway.</small>
+      <div class="collapse" id="collapse-17">
+        <small>
+          The youngsters tend to prepare more, whereas the veterans aim to solve interesting and tricky problems rather than to earn more points.  I realized that I am too old for the olympiads, and decided not to go to the national olympiad.  It was later cancelled because of the Covid19 anyway.
+        </small>
+      </div>
 
     - I was a deputy leader of the Computer Science department team at the IMC.
 
