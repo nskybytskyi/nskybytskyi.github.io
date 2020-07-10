@@ -108,7 +108,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
         </small>
       </div>
 
-    - second diploma at national math olympiad 11<sup>th</sup> grade<a class="btn btn-link" data-toggle="collapse" href="#collapse-10" role="button" aria-expanded="false" aria-controls="collapse-10">&hellip;</a>
+    - second diploma at national math olympiad for 11<sup>th</sup> grade<a class="btn btn-link" data-toggle="collapse" href="#collapse-10" role="button" aria-expanded="false" aria-controls="collapse-10">&hellip;</a>
 
       <div class="collapse" id="collapse-10">
         <small>
