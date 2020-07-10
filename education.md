@@ -305,15 +305,15 @@ I am a big fan of online education, having completed more than a dozen courses o
   Certified Coursera
 </h3>
 
-- C++ Programming: the white belt &mdash; Moscow Institute of Physics and Technology, Yandex &mdash; 99%
-
 - Machine Learning &mdash; Stanford University &mdash; 100%
 
-- Math and Python for Data Analysis &mdash; Moscow Institute of Physics and Technology, Yandex &mdash; 100%
+- Supervised Learning &mdash; Moscow Institute of Physics and Technology & Yandex &mdash; 95%
+
+- C++ Programming: the white belt &mdash; Moscow Institute of Physics and Technology & Yandex &mdash; 99%
+
+- Math and Python for Data Analysis &mdash; Moscow Institute of Physics and Technology & Yandex &mdash; 100%
 
 - Stochastic Processes &mdash; National Research University Higher School of Economics &mdash;  98%
-
-- Supervised Learning &mdash; Moscow Institute of Physics and Technology, Yandex &mdash; 95%
 
 <h3 id="online-other">
   Other Completed
@@ -339,4 +339,4 @@ Grouped by university.
 
   - Game Theory &mdash; National Research University Higher School of Economics &mdash; 94%
 
-  - Introduction to Machine Learning &mdash; National Research University Higher School of Economics, Yandex School of Data Analysis &mdash; 100%
+  - Introduction to Machine Learning &mdash; National Research University Higher School of Economics & Yandex School of Data Analysis &mdash; 100%
