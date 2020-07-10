@@ -10,9 +10,8 @@
 </h1>
 
 ### High School
-<p>
-    From 2009 to 2016 I studied at physics and mathematics lyceum in Kyiv.  I participated in a lot of different competitions, ranging from city geography olympiad and national chemistry olympiad to 2016 <a href="http://imo-official.org/participant_r.aspx?id=26730">International Mathematical Olympiad</a> (IMO).  I won many different awards in many different subjects, even though my main focus always remained on mathematics. 
-</p>
+
+From 2009 to 2016 I studied at physics and mathematics lyceum in Kyiv.  I participated in a lot of different competitions, ranging from city geography olympiad and national chemistry olympiad to 2016 <a href="http://imo-official.org/participant_r.aspx?id=26730">International Mathematical Olympiad</a> (IMO).  I won many different awards in many different subjects, even though my main focus always remained on mathematics. 
 
 <blockquote>
     You could have won gold at IMO if you studied more. <br>
@@ -23,9 +22,8 @@
 </blockquote>
 
 ### University
-<p>
-    After high school, I entered the Taras Shevchenko National University of Kyiv.  This choice was motivated by my friends.  Our group consisted of two more IMO winners, a couple more national olympiad winners, and some more cool guys.  We went to one more olympiad all together, 2017 <a href="https://www.imc-math.org.uk/?year=2017&section=results&item=bysum">International Mathematical Olympiad for University Students</a>, where I won another silver medal.  After that, I got a little tired of participating in olympiads.
-</p>
+
+After high school, I entered the Taras Shevchenko National University of Kyiv.  This choice was motivated by my friends.  Our group consisted of two more IMO winners, a couple more national olympiad winners, and some more cool guys.  We went to one more olympiad all together, 2017 <a href="https://www.imc-math.org.uk/?year=2017&section=results&item=bysum">International Mathematical Olympiad for University Students</a>, where I won another silver medal.  After that, I got a little tired of participating in olympiads.
 
 ### Lecture Notes
 <p>
