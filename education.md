@@ -140,7 +140,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
 # Taras Shevchenko National University of Kyiv
 
-Thought to be one of the best Ukrainian universities by many, yet has a hole bunch of problems if you look from the inside.  I entered the department of Cybernetics, which was consequently renamed to the Computer Science and Cybernetics department.  People mainly call it CS or CSC department.  I majored in the Applied Mathematics.  You can read my diploma [here](https://github.com/Sky-Nik/diploma/blob/master/diploma.pdf).
+Thought to be one of the best Ukrainian universities by many, yet has a whole bunch of problems if you look from the inside.  I entered the department of Cybernetics, which was renamed to the Computer Science and Cybernetics department later on.  People mainly call it CS or CSC department.  I majored in the Applied Mathematics.  You can read my diploma [here](https://github.com/Sky-Nik/diploma/blob/master/diploma.pdf).
 
 ### GPA
 
