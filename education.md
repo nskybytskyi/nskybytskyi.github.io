@@ -24,7 +24,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
     - second place at city math olympiad for 7th grade;
 
-    - second place at city math olympiad for 8th grade<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-1" role="button" aria-expanded="false" aria-controls="collapse-1">&hellip;</a>
+    - second place at city math olympiad for 8th grade<a class="btn btn-link" data-toggle="collapse" href="#collapse-1" role="button" aria-expanded="false" aria-controls="collapse-1">&hellip;</a>
 
       <div class="collapse" id="collapse-1">
         <small>
@@ -38,7 +38,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
 - 2013:
 
-    - first place at city chemistry olympiad<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-2" role="button" aria-expanded="false" aria-controls="collapse-2">&hellip;</a>
+    - first place at city chemistry olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-2" role="button" aria-expanded="false" aria-controls="collapse-2">&hellip;</a>
 
       <div class="collapse" id="collapse-2">
         <small>
@@ -46,7 +46,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
         </small>
       </div>
 
-    - second place at city math olympiad<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-3" role="button" aria-expanded="false" aria-controls="collapse-3">&hellip;</a>
+    - second place at city math olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-3" role="button" aria-expanded="false" aria-controls="collapse-3">&hellip;</a>
 
       <div class="collapse" id="collapse-3">
         <small>
@@ -54,7 +54,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
         </small>
       </div>
 
-    - second diploma at national chemistry olympiad<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-4" role="button" aria-expanded="false" aria-controls="collapse-4">&hellip;</a>
+    - second diploma at national chemistry olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-4" role="button" aria-expanded="false" aria-controls="collapse-4">&hellip;</a>
 
       <div class="collapse" id="collapse-4">
         <small>
@@ -64,7 +64,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
 - 2014 (9th grade):
 
-    - second place at city chemistry olympiad<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-5" role="button" aria-expanded="false" aria-controls="collapse-5">&hellip;</a>
+    - second place at city chemistry olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-5" role="button" aria-expanded="false" aria-controls="collapse-5">&hellip;</a>
 
       <div class="collapse" id="collapse-5">
         <small>
@@ -74,7 +74,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
     - first place at city math olympiad;
 
-    - first diploma at national math olympiad<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-6" role="button" aria-expanded="false" aria-controls="collapse-6">&hellip;</a>
+    - first diploma at national math olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-6" role="button" aria-expanded="false" aria-controls="collapse-6">&hellip;</a>
 
       <div class="collapse" id="collapse-6">
         <small>
@@ -84,7 +84,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
 - 2015 (10th grade):
 
-    - second place at city geography olympiad<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-7" role="button" aria-expanded="false" aria-controls="collapse-7">&hellip;</a>
+    - second place at city geography olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-7" role="button" aria-expanded="false" aria-controls="collapse-7">&hellip;</a>
 
       <div class="collapse" id="collapse-7">
         <small>
@@ -92,7 +92,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
         </small>
       </div>
 
-    - second place at city physics olympiad<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-8" role="button" aria-expanded="false" aria-controls="collapse-8">&hellip;</a>
+    - second place at city physics olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-8" role="button" aria-expanded="false" aria-controls="collapse-8">&hellip;</a>
 
       <div class="collapse" id="collapse-8">
         <small>
@@ -100,7 +100,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
         </small>
       </div>
 
-    - second place at city math olympiad<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-9" role="button" aria-expanded="false" aria-controls="collapse-9">&hellip;</a>
+    - second place at city math olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-9" role="button" aria-expanded="false" aria-controls="collapse-9">&hellip;</a>
 
       <div class="collapse" id="collapse-9">
         <small>
@@ -108,7 +108,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
         </small>
       </div>
 
-    - second diploma at national math olympiad 11th grade<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-10" role="button" aria-expanded="false" aria-controls="collapse-10">&hellip;</a>
+    - second diploma at national math olympiad 11th grade<a class="btn btn-link" data-toggle="collapse" href="#collapse-10" role="button" aria-expanded="false" aria-controls="collapse-10">&hellip;</a>
 
       <div class="collapse" id="collapse-10">
         <small>
@@ -118,7 +118,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
 - 2016 (11th grade):
 
-    - second place at city linguistics olympiad<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-11" role="button" aria-expanded="false" aria-controls="collapse-11">&hellip;</a>
+    - second place at city linguistics olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-11" role="button" aria-expanded="false" aria-controls="collapse-11">&hellip;</a>
 
       <div class="collapse" id="collapse-11">
         <small>
@@ -130,7 +130,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
     - second diploma at national math olympiad;
 
-    - silver medal at the International Mathematical Olympiad<a class="btn btn-link btn-xs" data-toggle="collapse" href="#collapse-12" role="button" aria-expanded="false" aria-controls="collapse-12">&hellip;</a>
+    - silver medal at the International Mathematical Olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-12" role="button" aria-expanded="false" aria-controls="collapse-12">&hellip;</a>
 
       <div class="collapse" id="collapse-12">
         <small>
