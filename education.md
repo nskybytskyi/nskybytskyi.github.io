@@ -2,19 +2,27 @@
   It is a more detailed description of my education.  It includes coursework, grades, achievements, etc.
 </p>
 
-# Physics and Mathematics Lyceum №208
+<h1 id="school">
+  Physics and Mathematics Lyceum №208
+</h1>
 
 There is nothing special about it apart from its students earning 14 medals (5G, 7S, 2B) at the IMO over the past ten years (2010&ndash;2019).  Note that Ukraine had 11-years school education when I studied.  Therefore, Ukrainians are usually younger than other Europeans when participating in international olympiads.  For example, I graduated from school when I was 16.
 
-### GPA
+<h3 id="school-gpa">
+  GPA
+</h3>
 
 I can't remember the exact GPA, but I guess it was about 10.6/12 (in between A and A+) in my last year.  Some other years my GPA was as high as 11.5.  Such a drop is because I focused on preparing for IMO.    Anyway, I graduated with a gold medal (a.k.a. the High Honours).
 
-### Coursework
+<h3 id="school-coursework">
+  Coursework
+</h3>
 
 Coursework includes rather standard things: algebra, geometry, physics, chemistry, biology, geography, history, sports, some languages, some literature, even art and music classes once.
 
-### Achievements
+<h3 id="school-achievements">
+  Achievements
+</h3>
 
 Speaking of achievements, I took part in far too many olympiads to remember all of them.  I guess I will only mention the city level and above:
 
@@ -140,15 +148,21 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
         </small>
       </div>
 
-# Taras Shevchenko National University of Kyiv
+<h1 id="university">
+  Taras Shevchenko National University of Kyiv
+</h1>
 
 Thought to be one of the best Ukrainian universities by many, yet has a whole bunch of problems if you look from the inside.  I entered the department of Cybernetics, which was renamed to the Computer Science and Cybernetics department later on.  Nowadays people mainly call it CS or CSC department.  I majored in Applied Mathematics.  You can read my diploma about different algorithms for solving variational inequality [here](https://github.com/Sky-Nik/diploma/blob/master/diploma.pdf).
 
-### GPA
+<h3 id="university-gpa">
+  GPA
+</h3>
 
 I graduated with a GPA of 94.7/100, the best in my group by quite a margin.  However, it depends on how to calculate it.  Officials suggest counting only exams (i.e., no pass -or-fail classes, even if those give you a grade), and this is the way used here.  I also graduated with a red diploma (a.k.a. the High Honours).
 
-### Coursework
+<h3 id="university-coursework">
+  Coursework
+</h3>
 
 There are too many classes to list them in a linear fashion.  Hence, I suggest taking a look at the following course tree:
 
@@ -159,7 +173,9 @@ There are too many classes to list them in a linear fashion.  Hence, I suggest t
 </div>
 <script type="text/javascript" src="https://app.diagrams.net/js/viewer.min.js"></script>
 
-### Achievements
+<h3 id="university-achievements">
+  Achievements
+</h3>
 
 I didn't take part in student olympiad a lot, but when I did &mdash; I usually won.  All the following are math olympiads.
 
@@ -221,11 +237,15 @@ I didn't take part in student olympiad a lot, but when I did &mdash; I usually w
 
     - I was a deputy leader of the Computer Science department team at the IMC.
 
-# Yandex School of Data Analysis
+<h1 id="ysda">
+  Yandex School of Data Analysis
+</h1>
 
 Remember that YSDA is a very challenging place?  Well, if you study there online, it becomes twice as difficult.  The admission rate for online study is about 5%, and even among those admitted less than a half eventually complete the school.
 
-### Coursework
+<h3 id="ysda-coursework">
+  Coursework
+</h3>
 
 - First semester:
 
@@ -275,11 +295,15 @@ Remember that YSDA is a very challenging place?  Well, if you study there online
 
   I intend to take the following classes: Machine Learning II, Natural Language Processing, Computer Vision, Bayesian Methods in Machine Learning, External Memory Algorithms, and Convex Analysis and Optimization.
 
-# Online Education
+<h1 id="online">
+  Online Education
+</h1>
 
 I am a big fan of online education, having completed more than a dozen courses on Coursera, and some more on EdX.
 
-### Certified Coursera
+<h3 id="online-coursera">
+  Certified Coursera
+</h3>
 
 - C++ Programming: the white belt &mdash; Moscow Institute of Physics and Technology, Yandex &mdash; 99%
 
@@ -291,24 +315,28 @@ I am a big fan of online education, having completed more than a dozen courses o
 
 - Supervised Learning &mdash; Moscow Institute of Physics and Technology, Yandex &mdash; 95%
 
-### Other Completed
+<h3 id="online-other">
+  Other Completed
+</h3>
 
-##### uPenn
+Grouped by university.
 
-- Calculus: Functions &mdash; University of Pennsylvania &mdash; 100%
+- uPenn
 
-- Calculus: Integration &mdash; University of Pennsylvania &mdash; 100%
+  - Calculus: Functions &mdash; University of Pennsylvania &mdash; 100%
 
-- Calculus: Differentiation &mdash; University of Pennsylvania &mdash; 99%
+  - Calculus: Integration &mdash; University of Pennsylvania &mdash; 100%
 
-- Calculus: Applications &mdash; University of Pennsylvania &mdash; 72%
+  - Calculus: Differentiation &mdash; University of Pennsylvania &mdash; 99%
 
-##### HSE
+  - Calculus: Applications &mdash; University of Pennsylvania &mdash; 72%
 
-- Python Programming &mdash; National Research University Higher School of Economics &mdash; 100%
+- HSE
 
-- Linear Algebra &mdash; National Research University Higher School of Economics &mdash; 98%
+  - Python Programming &mdash; National Research University Higher School of Economics &mdash; 100%
 
-- Game Theory &mdash; National Research University Higher School of Economics &mdash; 94%
+  - Linear Algebra &mdash; National Research University Higher School of Economics &mdash; 98%
 
-- Introduction to Machine Learning &mdash; National Research University Higher School of Economics, Yandex School of Data Analysis &mdash; 100%
+  - Game Theory &mdash; National Research University Higher School of Economics &mdash; 94%
+
+  - Introduction to Machine Learning &mdash; National Research University Higher School of Economics, Yandex School of Data Analysis &mdash; 100%
