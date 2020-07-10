@@ -1,5 +1,5 @@
 <p class="mt-3">
-  It is a more detailed description of my education.  It includes coursework, grades, achievements, etc.
+  It is a more detailed description of my education.  It includes coursework, grades, achievements, projects, etc.
 </p>
 
 - <a href="#school"> School </a>
