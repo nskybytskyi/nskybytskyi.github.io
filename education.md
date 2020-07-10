@@ -6,7 +6,7 @@ There is nothing special about it apart from its students earning 14 medals (5G,
 
 ### GPA
 
-I can't remember the exact GPA, but I guess it was about 10.6/12 (in between A and A+) in my las year.  Some other years my GPA was as high as 11.5.  Such a drop is because I focused on preparing for IMO.    Anyway, I graduated with a gold medal (a.k.a. the High Honours).
+I can't remember the exact GPA, but I guess it was about 10.6/12 (in between A and A+) in my last year.  Some other years my GPA was as high as 11.5.  Such a drop is because I focused on preparing for IMO.    Anyway, I graduated with a gold medal (a.k.a. the High Honours).
 
 ### Coursework
 
@@ -26,11 +26,11 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
     - second place at city math olympiad for 8th grade;
 
-      <small>Yeah, I wrote the olympiad for two different grades.  Such practice is somewhat unusual, but not prohibited.  In my case it was even strategically advantageous: to get into the selection round of Kyiv team for the national olympiad one had to get either first place at 7th grade or at least second place at 8th grade.  It turns out that the latter is sometimes easier.  By using this loophole in the regulations, I became one of something like five all-time youngest students who entered the selection round.</small>
+      <small>Yeah, I wrote the olympiad for two different grades.  Such practice is somewhat unusual, but not prohibited.  In my case it was even strategically advantageous: to get into the selection round of Kyiv team for the national olympiad one had to get either first place in 7th grade or at least second place in 8th grade.  It turns out that the latter is sometimes easier.  By using this loophole in the regulations, I became one of something like five all-time youngest students who entered the selection round.</small>
 
 - 2012:
 
-    -first place at city math olympiad;
+    - first place at city math olympiad;
 
 - 2013:
 
@@ -64,7 +64,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
     - second place at city geography olympiad;
 
-      <small>It is probably the funniest olympiad in which I ever took part.  One day of preparation and a lot of general knowledge was enough to get the second place.  Geography teacher was delighted.</small>
+      <small>It is probably the funniest olympiad I ever took part in.  One day of preparation and a lot of general knowledge was enough to get the second place.  Geography teacher was delighted.</small>
 
     - second place at city physics olympiad;
 
