@@ -203,7 +203,7 @@ I didn't take part in student olympiad a lot, but when I did &mdash; I usually w
 
 # Yandex School of Data Analysis
 
-Remember that YSDA is a very challenging place to enter and to study?  Well, if you study there online, it becomes twice as difficult.  The admission rate for online study is about 5%, and even among those admitted less than a half eventually complete the school.
+Remember that YSDA is a very challenging place?  Well, if you study there online, it becomes twice as difficult.  The admission rate for online study is about 5%, and even among those admitted less than a half eventually complete the school.
 
 ### Coursework
 
@@ -292,4 +292,3 @@ I am a big fan of online education, having completed more than a dozen courses o
 - Game Theory &mdash; National Research University Higher School of Economics &mdash; 94%
 
 - Introduction to Machine Learning &mdash; National Research University Higher School of Economics, Yandex School of Data Analysis &mdash; 100%
-
