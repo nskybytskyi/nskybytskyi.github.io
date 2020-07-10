@@ -16,27 +16,27 @@ Coursework includes rather standard things: algebra, geometry, physics, chemistr
 
 Speaking of achievements, I took part in far too many olympiads to remember all of them.  I guess I will only mention the city level and above:
 
-- 2010 (5th grade):
+- 2010 (5<sup>th</sup> grade):
 
-    - third place at city math olympiad for 7th grade;
+    - third place at city math olympiad for 7<sup>th</sup> grade;
 
-- 2011 (6th grade):
+- 2011 (6<sup>th</sup> grade):
 
-    - second place at city math olympiad for 7th grade;
+    - second place at city math olympiad for 7<sup>th</sup> grade;
 
-    - second place at city math olympiad for 8th grade<a class="btn btn-link" data-toggle="collapse" href="#collapse-1" role="button" aria-expanded="false" aria-controls="collapse-1">&hellip;</a>
+    - second place at city math olympiad for 8<sup>th</sup> grade<a class="btn btn-link" data-toggle="collapse" href="#collapse-1" role="button" aria-expanded="false" aria-controls="collapse-1">&hellip;</a>
 
       <div class="collapse" id="collapse-1">
         <small>
-          Yeah, I wrote the olympiad for two different grades.  Such practice is somewhat unusual, but not prohibited.  In my case it was even strategically advantageous: to get into the selection round of Kyiv team for the national olympiad one had to get either first place in 7th grade or at least second place in 8th grade.  It turns out that the latter is sometimes easier.  By using this loophole in the regulations, I became one of something like five all-time youngest students who entered the selection round.
+          Yeah, I wrote the olympiad for two different grades.  Such practice is somewhat unusual, but not prohibited.  In my case it was even strategically advantageous: to get into the selection round of Kyiv team for the national olympiad one had to get either first place in 7<sup>th</sup> grade or at least second place in 8<sup>th</sup> grade.  It turns out that the latter is sometimes easier.  By using this loophole in the regulations, I became one of something like five all-time youngest students who entered the selection round.
         </small>
       </div>
 
-- 2012:
+- 2012 (7<sup>th</sup> grade):
 
     - first place at city math olympiad;
 
-- 2013:
+- 2013 (8<sup>th</sup> grade):
 
     - first place at city chemistry olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-2" role="button" aria-expanded="false" aria-controls="collapse-2">&hellip;</a>
 
@@ -58,11 +58,11 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
       <div class="collapse" id="collapse-4">
         <small>
-          I turned my confusion into a constructive path by refocusing on chemistry for some time.  A month or so of preparation resulted in 4th place at national olympiad.  Ukrainian conversion system to diplomas is the following: top 3 people get the first diploma (gold medal), next 6 participants get second (silver), and from 9 to 12 more contestants get third (bronze).  Mathematicians are somewhat flexible regarding these numbers, with the jury voting for the exact cutoffs based on the difference in points between participants.  For example, I earned only half of a point (out of 140) less than the 3rd place finisher, and the next participant was about 10 points down from me.  On a math olympiad, such a situation most probably would've resulted in me getting the first diploma.  However, chemists are somewhat stranger people, sticking precisely to the suggested cutoffs.
+          I turned my confusion into a constructive path by refocusing on chemistry for some time.  A month or so of preparation resulted in 4<sup>th</sup> place at national olympiad.  Ukrainian conversion system to diplomas is the following: top 3 people get the first diploma (gold medal), next 6 participants get second (silver), and from 9 to 12 more contestants get third (bronze).  Mathematicians are somewhat flexible regarding these numbers, with the jury voting for the exact cutoffs based on the difference in points between participants.  For example, I earned only half of a point (out of 140) less than the 3rd place finisher, and the next participant was about 10 points down from me.  On a math olympiad, such a situation most probably would've resulted in me getting the first diploma.  However, chemists are somewhat stranger people, sticking precisely to the suggested cutoffs.
         </small>
       </div>
 
-- 2014 (9th grade):
+- 2014 (9<sup>th</sup> grade):
 
     - second place at city chemistry olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-5" role="button" aria-expanded="false" aria-controls="collapse-5">&hellip;</a>
 
@@ -82,7 +82,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
         </small>
       </div>
 
-- 2015 (10th grade):
+- 2015 (10<sup>th</sup> grade):
 
     - second place at city geography olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-7" role="button" aria-expanded="false" aria-controls="collapse-7">&hellip;</a>
 
@@ -108,15 +108,15 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
         </small>
       </div>
 
-    - second diploma at national math olympiad 11th grade<a class="btn btn-link" data-toggle="collapse" href="#collapse-10" role="button" aria-expanded="false" aria-controls="collapse-10">&hellip;</a>
+    - second diploma at national math olympiad 11<sup>th</sup> grade<a class="btn btn-link" data-toggle="collapse" href="#collapse-10" role="button" aria-expanded="false" aria-controls="collapse-10">&hellip;</a>
 
       <div class="collapse" id="collapse-10">
         <small>
-          I wanted to get to the team selection test for IMO, and it was necessary to compete for 11th grade to get there, and the second diploma was just enough.  I didn't make the IMO team that year, but it was a valuable experience.
+          I wanted to get to the team selection test for IMO, and it was necessary to compete for 11<sup>th</sup> grade to get there, and the second diploma was just enough.  I didn't make the IMO team that year, but it was a valuable experience.
         </small>
       </div>
 
-- 2016 (11th grade):
+- 2016 (11<sup>th</sup> grade):
 
     - second place at city linguistics olympiad<a class="btn btn-link" data-toggle="collapse" href="#collapse-11" role="button" aria-expanded="false" aria-controls="collapse-11">&hellip;</a>
 
