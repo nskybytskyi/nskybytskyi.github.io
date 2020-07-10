@@ -6,7 +6,7 @@
   - <a href="#school-gpa"> GPA </a>
   - <a href="#school-coursework"> Coursework </a>
   - <a href="#school-achievements"> Achievements </a>
-- <a href="#university"> university </a>
+- <a href="#university"> University </a>
   - <a href="#university-gpa"> GPA </a>
   - <a href="#university-coursework"> Coursework </a>
   - <a href="#university-achievements"> Achievements </a>
@@ -286,15 +286,15 @@ Many classes feature big projects.
 
   - somewhat limited analogue of map-reduce;
 
-  - a telegram cinemabot (recommendations).
+  - telegram cinemabot (recommendations).
 
 - C++ I:
 
-  - a simple one about using STL structures and obeying the style guide;
+  - simple one about using STL structures and obeying the style guide;
 
-  - a tokenizer, a parser, and an interpreter for Scheme (Lisp-alike language);
+  - tokenizer, parser, and interpreter for Scheme (Lisp-alike language);
 
-  - a telegram cinema bot (recommendations);
+  - telegram cinema bot (recommendations);
 
   - a module for NumPy in C API.
 
@@ -302,9 +302,9 @@ Many classes feature big projects.
 
   - jpeg decoder;
 
-  - a framework for parallel execution of some code;
+  - framework for parallel execution of some code;
 
-  - a clang tool (styleguide checks and dictionary support).
+  - clang tool (styleguide checks and dictionary support).
 
 - Machine Learning I:
 
