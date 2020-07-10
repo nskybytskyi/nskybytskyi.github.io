@@ -233,9 +233,9 @@
     </div>
 </div>
 
-<blockquote class="blockquote text-center">
+<blockquote>
     You look a bit like Tony Stark.
-    <footer class="blockquote-footer">
+    <footer>
         My friend Tania Sergienko.
     </footer>
 </blockquote>
