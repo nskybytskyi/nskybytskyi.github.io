@@ -53,7 +53,7 @@ I always considered university as some sort of free environment, not visiting ha
 </div>
 
 <p class="text-center">
-    Thanks to [@me_supreme_being](https://www.instagram.com/me_supreme_being/) for both shots.
+    Thanks to <a href="https://www.instagram.com/me_supreme_being/">@me_supreme_being</a> for both shots.
 </p>
 
 <p class="text-right">
