@@ -94,7 +94,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
 # Taras Shevchenko National University of Kyiv
 
-Thought to be one of the best Ukrainian universities by many, yet has a hole bunch of problems if you look from the inside.  I entered the department of Cybernetics, which was consequently renamed to the Computer Science and Cybernetics department.  People mainly call is CS or CSC department.  I majored in the Applied Mathematics.  You can read my diploma [here](https://github.com/Sky-Nik/diploma/blob/master/diploma.pdf).
+Thought to be one of the best Ukrainian universities by many, yet has a hole bunch of problems if you look from the inside.  I entered the department of Cybernetics, which was consequently renamed to the Computer Science and Cybernetics department.  People mainly call it CS or CSC department.  I majored in the Applied Mathematics.  You can read my diploma [here](https://github.com/Sky-Nik/diploma/blob/master/diploma.pdf).
 
 ### GPA
 
@@ -149,11 +149,99 @@ I didn't took part in student olympiad a lot, but when I did I usually won.  All
 
     - second place at university olympiad;
 
-      <small>The youngsters tend to prepare more, whereas the veterans aim to solve interesting and tricky problems rather than earn more points.  I realised that I am already too old for the olympiads, and decided not to go to the national olympiad, which was anyway cancelled because the Covid19 later on.</small>
+      <small>The youngsters tend to prepare more, whereas the veterans aim to solve interesting and tricky problems rather than to earn more points.  I realised that I am already too old for the olympiads, and decided not to go to the national olympiad, which was anyway cancelled because of the Covid19 later on.</small>
 
     - a deputy leader of Computer Science department team at the IMC.
 
 # Yandex School of Data Analysis
 
+Remember that YSDA is very challenging place to enter and to study?  Well, when you study there online it becomes twice as difficult.  Only ten people out of about a thousand applications are admitted into it, and less than a half of the admitted completes the school.
+
+### Coursework
+
+- First semester:
+
+  I took Discrete Math (excellent), Probability Theory and Mathematical Statistics (excellent), Python (pass), C++ I (pass), and last bu not least Algorithms and Data Structures I (pass).  After the end of the semester I continued to solve algorithmic problems and got the third place in the overall rankings in the end.
+
+  Many classes feature big projects.
+
+  Python:
+
+  - implement python interpreter in python;
+
+  - implement somewhat limited analogue of map-reduce;
+
+  - implement a telegram cinemabot (recommendations).
+
+  C++ I:
+
+  - a simple one about using stl structures and obeying styleguide;
+
+  - implement a tokenizer, a parser, and an interpreter for scheme (lisp-alike language);
+
+  - implement a telegram cinemabot (recommendations);
+
+  - implement a module for numpy in cpython.
+
+- Second semester:
+
+  I took Algorithms and Data Structures II (excellent), finishing third best among all the students(including hundred or so of offline learners).  I also took Machine Learning I (excellent), and C++ II (pass).
+
+  C++ II:
+
+  - implement jpeg decoder;
+
+  - implement a framework for parallel execution of some code;
+
+  - implement a clang tool (styleguide checks and dictionary support).
+
+  Machine Learning I:
+
+  - predict a winner in DOTA 2 &mdash; a classical one; 
+
+  - medical diagnostics;
+
+  - labelling stack overflow questions (about 10Gb of them).
+
+- Third semester:
+
+  I intent to take the following classes: Machine Learning II, Natural Language Processing, Computer Vision, Bayesian Methods in Machine Learning, External Memory Algorithms, and Convex Analysis and Optimization.
+
 # Online Education
+
+I am a big fan of online education, having completed more than a dozen courses on Coursera, and some more on EdX.
+
+### Certified Coursera
+
+- C++ Programming: the white belt &mdash; Moscow Institute of Physics and Technology, Yandex &mdash; 99%
+
+- Machine Learning &mdash; Stanford University &mdash; 100%
+
+- Math and Python for Data Analysis &mdash; Moscow Institute of Physics and Technology, Yandex &mdash; 100%
+
+- Stochastic Processes &mdash; National Research University Higher School of Economics &mdash;  98%
+
+- Supervised Learning &mdash; Moscow Institute of Physics and Technology, Yandex &mdash; 95%
+
+### Other Completed
+
+##### uPenn
+
+- Calculus: Functions &mdash; University of Pennsylvania &mdash; 100%
+
+- Calculus: Integration &mdash; University of Pennsylvania &mdash; 100%
+
+- Calculus: Differentiation &mdash; University of Pennsylvania &mdash; 99%
+
+- Calculus: Applications &mdash; University of Pennsylvania &mdash; 72%
+
+##### HSE
+
+- Python Programming &mdash; National Research University Higher School of Economics &mdash; 100%
+
+- Linear Algebra &mdash; National Research University Higher School of Economics &mdash; 98%
+
+- Game Theory &mdash; National Research University Higher School of Economics &mdash; 94%
+
+- Introduction to Machine Learning &mdash; National Research University Higher School of Economics, Yandex School of Data Analysis &mdash; 100%
 
