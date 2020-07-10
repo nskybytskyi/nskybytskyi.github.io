@@ -24,9 +24,13 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
     - second place at city math olympiad for 7th grade;
 
-    - second place at city math olympiad for 8th grade;
+    - second place at city math olympiad for 8th grade <a class="btn btn-link" data-toggle="collapse" href="#collapse-1" role="button" aria-expanded="false" aria-controls="collapse-1">&hellip;</a>
 
-      <small>Yeah, I wrote the olympiad for two different grades.  Such practice is somewhat unusual, but not prohibited.  In my case it was even strategically advantageous: to get into the selection round of Kyiv team for the national olympiad one had to get either first place in 7th grade or at least second place in 8th grade.  It turns out that the latter is sometimes easier.  By using this loophole in the regulations, I became one of something like five all-time youngest students who entered the selection round.</small>
+      <div class="collapse" id="collapse-1">
+        <small>
+          Yeah, I wrote the olympiad for two different grades.  Such practice is somewhat unusual, but not prohibited.  In my case it was even strategically advantageous: to get into the selection round of Kyiv team for the national olympiad one had to get either first place in 7th grade or at least second place in 8th grade.  It turns out that the latter is sometimes easier.  By using this loophole in the regulations, I became one of something like five all-time youngest students who entered the selection round.
+        </small>
+      </div>
 
 - 2012:
 
@@ -34,9 +38,13 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
 - 2013:
 
-    - first place at city chemistry olympiad;
+    - first place at city chemistry olympiad <a class="btn btn-link" data-toggle="collapse" href="#collapse-2" role="button" aria-expanded="false" aria-controls="collapse-2">&hellip;</a>
 
-      <small>This one was unexpected.  I thought I only got the knack for math, but it turned out that some preparation makes mathematicians extremely competitive in different subjects.</small>
+      <div class="collapse" id="collapse-2">
+        <small>
+          This one was unexpected.  I thought I only got the knack for math, but it turned out that some preparation makes mathematicians extremely competitive in different subjects.
+        </small>
+      </div>
 
     - second place at city math olympiad;
 
