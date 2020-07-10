@@ -50,7 +50,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
       <div class="collapse" id="collapse-3">
         <small>
-          Acidentally, I didn't make the Kyiv math team for the national olympiad.  That selection test was quite controversial, with many people believing that the head of the jury interpreted rules the wrong way.  I am still not sure whether this event turned out to be a bad or a good one in my life overall, but some positive consequences eventually followed.  For example, the rules where significantly clarified to avoid ambiguities in the future.
+          Accidentally, I didn't make the Kyiv math team for the national olympiad.  That selection test was quite controversial, with many people believing that the head of the jury interpreted rules the wrong way.  I am still not sure whether this event turned out to be a bad or a good one in my life overall, but some positive consequences eventually followed.  For example, the rules where significantly clarified to avoid ambiguities in the future.
         </small>
       </div>
 
@@ -58,7 +58,7 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
       <div class="collapse" id="collapse-4">
         <small>
-          I turned my confusion into a constructive path by refocusing on chemistry for some time.  A month or so of preparation resulted in 4<sup>th</sup> place at national olympiad.  Ukrainian conversion system to diplomas is the following: top 3 people get the first diploma (gold medal), next 6 participants get second (silver), and from 9 to 12 more contestants get third (bronze).  Mathematicians are somewhat flexible regarding these numbers, with the jury voting for the exact cutoffs based on the difference in points between participants.  For example, I earned only half of a point (out of 140) less than the third place finisher, and the next participant was about 10 points down from me.  On a math olympiad, such a situation most probably would've resulted in me getting the first diploma.  However, chemists are somewhat stranger people, sticking precisely to the suggested cutoffs.
+          I turned my confusion into a constructive path by refocusing on chemistry for some time.  A month or so of preparation resulted in 4<sup>th</sup> place at national olympiad.  Ukrainian conversion system to diplomas is the following: top 3 people get the first diploma (gold medal), next 6 participants get second (silver), and from 9 to 12 more contestants get third (bronze).  Mathematicians are somewhat flexible regarding these numbers, with the jury voting for the exact cutoffs based on the difference in points between participants.  For example, I earned only half of a point (out of 140) less than the third-place finisher, and the next participant was about 10 points down from me.  On a math olympiad, such a situation most probably would've resulted in me getting the first diploma.  However, chemists are somewhat stranger people, sticking precisely to the suggested cutoffs.
         </small>
       </div>
 
@@ -140,11 +140,11 @@ Speaking of achievements, I took part in far too many olympiads to remember all 
 
 # Taras Shevchenko National University of Kyiv
 
-Thought to be one of the best Ukrainian universities by many, yet has a whole bunch of problems if you look from the inside.  I entered the department of Cybernetics, which was renamed to the Computer Science and Cybernetics department later on.  People mainly call it CS or CSC department.  I majored in the Applied Mathematics.  You can read my diploma [here](https://github.com/Sky-Nik/diploma/blob/master/diploma.pdf).
+Thought to be one of the best Ukrainian universities by many, yet has a whole bunch of problems if you look from the inside.  I entered the department of Cybernetics, which was renamed to the Computer Science and Cybernetics department later on.  People mainly call it CS or CSC department.  I majored in Applied Mathematics.  You can read my diploma [here](https://github.com/Sky-Nik/diploma/blob/master/diploma.pdf).
 
 ### GPA
 
-94.7/100, the best in group by quite a margin.  However, it depends on how to calculate it.  Officials suggests counting only exams (i.e., no fail/pass classes, even if these give you a grade), and this is exaclty the way used here.  I also graduted with a red diploma (a.k.a. the High Honours).
+94.7/100, the best in my group by quite a margin.  However, it depends on how to calculate it.  Officials suggest counting only exams (i.e., no pass -or-fail classes, even if those give you a grade), and this is exactly the way used here.  I also graduated with a red diploma (a.k.a. the High Honours).
 
 ### Coursework
 
@@ -159,13 +159,13 @@ There are too many classes to list them in a linear fashion.  Hence, I suggest t
 
 ### Achievements
 
-I didn't took part in student olympiad a lot, but when I did I usually won.  All the following are math olympiads.
+I didn't take part in student olympiad a lot, but when I did I usually won.  All the following are math olympiads.
 
 - 2017 (freshman):
 
     - first place at university olympiad;
 
-      <small>It is pratically equivalent to city olympiad, as it is open for the students of other universities.</small>
+      <small>It is practically equivalent to city olympiad, as it is open for the students of other universities.</small>
 
     - first diploma at national olympiad;
 
@@ -179,7 +179,7 @@ I didn't took part in student olympiad a lot, but when I did I usually won.  All
 
     - first diploma at national olympiad;
 
-      <small>I easily qualified for IMC, but decided not to go there. This year was funny because so did all top three contestans, resulting in the selected and actual team having only one member in common.</small>
+      <small>I easily qualified for IMC but decided not to go there. This year was funny because so did all top three contestants, resulting in the selected and actual team having only one member in common.</small>
 
 - 2019 (junior):
 
@@ -197,17 +197,17 @@ I didn't took part in student olympiad a lot, but when I did I usually won.  All
 
       <small>The youngsters tend to prepare more, whereas the veterans aim to solve interesting and tricky problems rather than to earn more points.  I realised that I am already too old for the olympiads, and decided not to go to the national olympiad, which was anyway cancelled because of the Covid19 later on.</small>
 
-    - a deputy leader of Computer Science department team at the IMC.
+    - a deputy leader of the Computer Science department team at the IMC.
 
 # Yandex School of Data Analysis
 
-Remember that YSDA is very challenging place to enter and to study?  Well, when you study there online it becomes twice as difficult.  Only ten people out of about a thousand applications are admitted into it, and less than a half of the admitted completes the school.
+Remember that YSDA is a very challenging place to enter and to study?  Well, when you study there online it becomes twice as difficult.  Only ten people out of about a thousand applications are admitted into it, and less than half of the admitted completes the school.
 
 ### Coursework
 
 - First semester:
 
-  I took Discrete Math (excellent), Probability Theory and Mathematical Statistics (excellent), Python (pass), C++ I (pass), and last bu not least Algorithms and Data Structures I (pass).  After the end of the semester I continued to solve algorithmic problems and got the third place in the overall rankings in the end.
+  I took Discrete Math (excellent), Probability Theory and Mathematical Statistics (excellent), Python (pass), C++ I (pass), and last but not least Algorithms and Data Structures I (pass).  After the end of the semester, I continued to solve algorithmic problems and got third place in the overall rankings in the end.
 
   Many classes feature big projects.
 
@@ -221,17 +221,17 @@ Remember that YSDA is very challenging place to enter and to study?  Well, when 
 
   C++ I:
 
-  - a simple one about using stl structures and obeying styleguide;
+  - a simple one about using STL structures and obeying the style guide;
 
-  - implement a tokenizer, a parser, and an interpreter for scheme (lisp-alike language);
+  - implement a tokenizer, a parser, and an interpreter for Scheme (Lisp-alike language);
 
-  - implement a telegram cinemabot (recommendations);
+  - implement a telegram cinema bot (recommendations);
 
-  - implement a module for numpy in cpython.
+  - implement a module for NumPy in C API.
 
 - Second semester:
 
-  I took Algorithms and Data Structures II (excellent), finishing third best among all the students(including hundred or so of offline learners).  I also took Machine Learning I (excellent), and C++ II (pass).
+  I took Algorithms and Data Structures II (excellent), finishing third-best among all the students(including hundred or so of offline learners).  I also took Machine Learning I (excellent), and C++ II (pass).
 
   C++ II:
 
@@ -251,7 +251,7 @@ Remember that YSDA is very challenging place to enter and to study?  Well, when 
 
 - Third semester:
 
-  I intent to take the following classes: Machine Learning II, Natural Language Processing, Computer Vision, Bayesian Methods in Machine Learning, External Memory Algorithms, and Convex Analysis and Optimization.
+  I intend to take the following classes: Machine Learning II, Natural Language Processing, Computer Vision, Bayesian Methods in Machine Learning, External Memory Algorithms, and Convex Analysis and Optimization.
 
 # Online Education
 
