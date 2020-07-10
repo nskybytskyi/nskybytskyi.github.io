@@ -2,6 +2,21 @@
   It is a more detailed description of my education.  It includes coursework, grades, achievements, etc.
 </p>
 
+- <a href="#school"> School </a>
+  - <a href="#school-gpa"> GPA </a>
+  - <a href="#school-coursework"> Coursework </a>
+  - <a href="#school-achievements"> Achievements </a>
+- <a href="#university"> university </a>
+  - <a href="#university-gpa"> GPA </a>
+  - <a href="#university-coursework"> Coursework </a>
+  - <a href="#university-achievements"> Achievements </a>
+- <a href="#ysda"> YSDA </a>
+  - <a href="#ysda-coursework"> Coursework </a>
+  - <a href="#ysda-projects"> Projects </a>
+- <a href="#online"> Online </a>
+  - <a href="#online-coursera"> Coursera </a>
+  - <a href="#online-other"> Other </a>
+
 <h1 id="school">
   Physics and Mathematics Lyceum №208
 </h1>
@@ -251,49 +266,53 @@ Remember that YSDA is a very challenging place?  Well, if you study there online
 
   I took Discrete Math (excellent), Probability Theory and Mathematical Statistics (excellent), Python (pass), C++ I (pass), and last but not least Algorithms and Data Structures I (pass).  After the end of the semester, I continued to solve algorithmic problems and got third place in the overall rankings in the end.
 
-  Many classes feature big projects.
-
-  Python:
-
-  - implement python interpreter in python;
-
-  - implement somewhat limited analogue of map-reduce;
-
-  - implement a telegram cinemabot (recommendations).
-
-  C++ I:
-
-  - a simple one about using STL structures and obeying the style guide;
-
-  - implement a tokenizer, a parser, and an interpreter for Scheme (Lisp-alike language);
-
-  - implement a telegram cinema bot (recommendations);
-
-  - implement a module for NumPy in C API.
-
 - Second semester:
 
   I took Algorithms and Data Structures II (excellent), finishing third-best among all the students(including hundred or so of offline learners).  I also took Machine Learning I (excellent), and C++ II (pass).
 
-  C++ II:
+- Third semester:
 
-  - implement jpeg decoder;
+  I intend to take the following classes: Machine Learning II, Natural Language Processing, Computer Vision, Bayesian Methods in Machine Learning, External Memory Algorithms, and Convex Analysis and Optimization.
 
-  - implement a framework for parallel execution of some code;
+<h3 id="ysda-projects">
+  Projects  
+</h3>
 
-  - implement a clang tool (styleguide checks and dictionary support).
+Many classes feature big projects.
 
-  Machine Learning I:
+- Python:
+
+  - python interpreter in python;
+
+  - somewhat limited analogue of map-reduce;
+
+  - a telegram cinemabot (recommendations).
+
+- C++ I:
+
+  - a simple one about using STL structures and obeying the style guide;
+
+  - a tokenizer, a parser, and an interpreter for Scheme (Lisp-alike language);
+
+  - a telegram cinema bot (recommendations);
+
+  - a module for NumPy in C API.
+
+- C++ II:
+
+  - jpeg decoder;
+
+  - a framework for parallel execution of some code;
+
+  - a clang tool (styleguide checks and dictionary support).
+
+- Machine Learning I:
 
   - predict a winner in DOTA 2 &mdash; a classical one; 
 
   - medical diagnostics;
 
   - labelling stack overflow questions (about 10Gb of them).
-
-- Third semester:
-
-  I intend to take the following classes: Machine Learning II, Natural Language Processing, Computer Vision, Bayesian Methods in Machine Learning, External Memory Algorithms, and Convex Analysis and Optimization.
 
 <h1 id="online">
   Online Education
