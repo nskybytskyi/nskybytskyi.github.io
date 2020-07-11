@@ -324,15 +324,15 @@ I am a big fan of online education, having completed more than a dozen courses o
   Certified Coursera
 </h3>
 
-- Machine Learning &mdash; Stanford University &mdash; 100%
+- Machine Learning &mdash; Stanford University &mdash; 100%  &mdash; [certificate](https://coursera.org/share/60e089ff8df76ad464b280a15496acf5)
 
-- Supervised Learning &mdash; Moscow Institute of Physics and Technology & Yandex &mdash; 95%
+- Supervised Learning &mdash; Moscow Institute of Physics and Technology & Yandex &mdash; 95%  &mdash; [certificate](https://coursera.org/share/612027e729305e82d475d0d287868938)
 
-- C++ Programming: the white belt &mdash; Moscow Institute of Physics and Technology & Yandex &mdash; 99%
+- C++ Programming: the white belt &mdash; Moscow Institute of Physics and Technology & Yandex &mdash; 99% &mdash; [certificate](https://coursera.org/share/d1a57853c44994eddc3c9e16953dea3e)
 
-- Math and Python for Data Analysis &mdash; Moscow Institute of Physics and Technology & Yandex &mdash; 100%
+- Math and Python for Data Analysis &mdash; Moscow Institute of Physics and Technology & Yandex &mdash; 100%  &mdash; [certificate](https://coursera.org/share/3103e5d65d7a2f5dda97d70723babbde)
 
-- Stochastic Processes &mdash; National Research University Higher School of Economics &mdash;  98%
+- Stochastic Processes &mdash; National Research University Higher School of Economics &mdash;  98%  &mdash; [certificate](https://coursera.org/share/ba2d7469bb1bebfb9dc739a447c0aa8a)
 
 <h3 id="online-other">
   Other Completed
@@ -340,22 +340,22 @@ I am a big fan of online education, having completed more than a dozen courses o
 
 Grouped by university.
 
-- uPenn
+- uPenn (University of Pennsylvania)
 
-  - Calculus: Functions &mdash; University of Pennsylvania &mdash; 100%
+  - Calculus: Functions &mdash; 100%
 
-  - Calculus: Integration &mdash; University of Pennsylvania &mdash; 100%
+  - Calculus: Integration &mdash; 100%
 
-  - Calculus: Differentiation &mdash; University of Pennsylvania &mdash; 99%
+  - Calculus: Differentiation &mdash; 99%
 
-  - Calculus: Applications &mdash; University of Pennsylvania &mdash; 72%
+  - Calculus: Applications &mdash; 72%
 
-- HSE
+- HSE (National Research University Higher School of Economics)
 
-  - Python Programming &mdash; National Research University Higher School of Economics &mdash; 100%
+  - Python Programming &mdash; 100%
 
-  - Linear Algebra &mdash; National Research University Higher School of Economics &mdash; 98%
+  - Linear Algebra &mdash; 98%
 
-  - Game Theory &mdash; National Research University Higher School of Economics &mdash; 94%
+  - Game Theory &mdash; 94%
 
-  - Introduction to Machine Learning &mdash; National Research University Higher School of Economics & Yandex School of Data Analysis &mdash; 100%
+  - Introduction to Machine Learning &mdash; 100%
