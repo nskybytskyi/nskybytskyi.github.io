@@ -8,7 +8,7 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2rem; display: table;">
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 10vw; display: table;">
                 <span style="vertical-align: middle; display: table-cell;">June'20</span>
             </div>
         </div>
@@ -40,7 +40,7 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2rem; display: table;">
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 10vw; display: table;">
                 <span style="vertical-align: middle; display: table-cell;">May &ndash; June'20</span>
             </div>
         </div>
@@ -56,8 +56,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2rem; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">February'20</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 10vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">Feb'20</span>
             </div>
         </div>
     </div>
@@ -88,8 +88,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2rem; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">September'19 &ndash; February'20</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 10vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">Sept'19 &ndash; Feb'20</span>
             </div>
         </div>
     </div>
@@ -104,8 +104,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2rem; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">August'19</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 10vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">Aug'19</span>
             </div>
         </div>
     </div>
@@ -136,8 +136,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2rem; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">August'19</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 10vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">Aug'19</span>
             </div>
         </div>
     </div>
@@ -152,7 +152,7 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2rem; display: table;">
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 10vw; display: table;">
                 <span style="vertical-align: middle; display: table-cell;">July'19</span>
             </div>
         </div>
@@ -181,8 +181,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2rem; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">February &ndash; May'19</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 10vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">Feb &ndash; May'19</span>
             </div>
         </div>
     </div>
@@ -197,8 +197,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2rem; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">August'18</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 10vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">Aug'18</span>
             </div>
         </div>
     </div>
@@ -229,8 +229,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2rem; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">May'17 &ndash; October'18</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 10vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">May'17 &ndash; Oct'18</span>
             </div>
         </div>
     </div>
@@ -245,8 +245,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2rem; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">August'17</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 10vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">Aug'17</span>
             </div>
         </div>
     </div>
@@ -262,23 +262,3 @@
         </p>
     </div>
 </div>
-
-<!-- <div class="row">
-    <div class="col-5 text-right">
-        <h3>
-            Sosnovyi
-        </h3>
-        <p>
-            Straight after the return from IMO, team members were asked to participate as mentors in a training camp in Sosnovyi, near Kyiv.  The approximate level of participants was IMO reserve and national olympiad diploma.
-        </p>
-        <p>
-            I'm afraid the lectures I conducted there are lost forever, because I changed several laptops since then, and it was long before I started using GitHub and <a href="https://www.overleaf.com/">Overleaf</a> (SharedLaTeX at that time) extensively.
-        </p>
-    </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        August'16
-    </div>
-    <div class="col-5 text-left">
-        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
-    </div>
-</div> -->
