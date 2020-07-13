@@ -25,9 +25,9 @@ Output: 4
 Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
              Total amount you can rob = 1 + 3 = 4.
 ```
-<h2><a class="btn btn-link" id="solution-1" data-toggle="collapse" href="#collapse-1" role="button" aria-expanded="false" aria-controls="collapse-1">Solution</a></h2>
 
-<div class="collapse" id="collapse-1">
+<details>
+    <summary><h2>Solution</h2></summary>
 
 Note that in an optimal subsets of houses which we can rob there won't be three consecutive not robbed houses.  Otherwise, we could've robbed the middle of them and increase our profit.  At this point, the problem sounds something like fibonacci steps, i.e. pass one house or pass two houses.  Fibonacci should remaind us of the dynamic programming.
 
@@ -35,12 +35,10 @@ Indeed, we can already see most of the solution: maintain two `dp` arrayy with `
 
 There is, however, one tricky question about the boundaries: we cannot rob the first and the last house simultaneously.  I suggest dealing with this by running the initial dp on `nums[1:]` and `nums[:-1]` and then taking the best of two results.  In such a way we manually ensure that at least one of the boundary houses is not robbed.  This will work in all cases except for length 1 and length 0 arrays.
 
-<a id="complexity"></a>
 ### Complexity
 
 Both time and space complexity is _O(n)_, as we have _O(n)_ dp states with _O(1)_ transitions each.  Space complexity can be reduced to _O(1)_ if we maintain only a sliding window of three dp elements and carefully avoid copying the input array.
 
-<a id="code"></a>
 ### Code
 
 ```python
@@ -63,7 +61,7 @@ class Solution:
 
 ```
 
-</div>
+</details>
 
 <a id="216-combination-sum-iii"></a>
 # 216. Combination Sum III
@@ -86,20 +84,17 @@ Input: k = 3, n = 9
 Output: [[1,2,6], [1,3,5], [2,3,4]]
 ```
 
-<h2><a class="btn btn-link" id="solution-2" data-toggle="collapse" href="#collapse-2" role="button" aria-expanded="false" aria-controls="collapse-2">Solution</a></h2>
-
-<div class="collapse" id="collapse-2">
+<details>
+    <summary><h2>Solution</h2></summary>
 
 We can use a recursive approach if we suppose that we take digits in descending order and add another (optional) parameter _d_ to our function, indicating the largest digit which we still can use.  The logic behind is the following: let's try to construct an answer starting with some digit _c_.  Then we'll be left with the original problem with _k_ replaced by _k - 1_, _n_ replaced by _n - c_, and _d_ replaced by _c - 1_.
 
-<a id="complexity-1"></a>
 ### Complexity
 
 There is a limited number of possible answers, namely _2<sup>9</sup>_.  Our solution manipulates at most that many lists of a limited length of _9_.  Therefore, the complexity is constant _O(1)_.
 
 The interesting question is whether one can do any better if we allow summand bigger than _9_.  At the first glance it looks like the answer size can be exponential in terms of _n_ if we do not limit the summand at all.  
 
-<a id="code-1"></a>
 ### Code
 
 ```python
@@ -120,7 +115,7 @@ class Solution:
 
 ```
 
-</div>
+</details>
 
 <a id="223-rectangle-area"></a>
 # 223. Rectangle Area
@@ -141,20 +136,17 @@ Output: 45
 
 Assume that the total area is never beyond the maximum possible value of **int**.
 
-<h2><a class="btn btn-link" id="solution-3" data-toggle="collapse" href="#collapse-3" role="button" aria-expanded="false" aria-controls="collapse-3">Solution</a></h2>
-
-<div class="collapse" id="collapse-3">
+<details>
+    <summary><h2>Solution</h2></summary>
 
 It's an easy geometry task, complicated by rather messy input format.  We are going to use inclusion/exclusion formula.  It means that we have to find the intersection area of the rectangles.  It can be easily found if you recall that a rectangle is an intersection of four half-planes and notice that some of these half-planes include others.  This observation allows us to calculate the potential vertices of the intersection. 
 
 The only tricky point to watch out for is when the intersection is empty.  We address this by max-relaxation of the side lengths with zero.
 
-<a id="complexity-2"></a>
 ### Complexity
 
 _O(1)_ ofc.
 
-<a id="code-2"></a>
 ### Code
 
 ```python
@@ -167,7 +159,7 @@ class Solution:
 
 ```
 
-</div>
+</details>
 
 <a id="310-minimum-height-trees"></a>
 # 310. Minimum Height Trees
@@ -210,9 +202,8 @@ Output: [3, 4]
 - According to the definition of tree on Wikipedia: “a tree is an undirected graph in which any two vertices are connected by exactly one path. In other words, any connected graph without simple cycles is a tree.”
 - The height of a rooted tree is the number of edges on the longest downward path between the root and a leaf.
 
-<h2><a class="btn btn-link" id="solution-4" data-toggle="collapse" href="#collapse-4" role="button" aria-expanded="false" aria-controls="collapse-4">Solution</a></h2>
-
-<div class="collapse" id="collapse-4">
+<details>
+    <summary><h2>Solution</h2></summary>
 
 A tree can have up to two centers (roots that lead to MHTs).  One can verify this claim by supposing the contrary, considering three centers and corresponding longest paths.  If you draw a picture, it should be clear how to construct a longer path for one of the centers, violating the assumption.
 
@@ -220,12 +211,10 @@ Any center is literally a center of any diameter.  This proposition can be prove
 
 The only remark still to be made is that we have to store the bfs-parents in the second bfs to effectively retrieve the diamter itself, not only the length.
 
-<a id="complexity-3"></a>
 ### Complexity
 
 _O(n)_, as we use a constant number of BFSs, and every one of them costs _O(V + E)_ which is _O(n)_ for the tree case.
 
-<a id="code-3"></a>
 ### Code
 
 Rather long this time.
@@ -282,7 +271,7 @@ class Solution:
 
 ```
 
-</div>
+</details>
 
 <a id="319-bulb-switcher"></a>
 # 319. Bulb Switcher
@@ -302,27 +291,23 @@ After third round, the three bulbs are [on, off, off].
 So you should return 1, because there is only one bulb is on.
 ```
 
-<a id="not-a-solution"></a>
 ## Not a Solution
 
 We are going to simulate the process.
 
 It is clear that we will make _n + n/2 + n/3 + ... + n/n_ switches.  But how do you calculate this sum?  Well, one can recognize the integral from _1_ to _n_ of _n/x_, which is _O(n log n)_.  Should work for small inputs.  However, it will TLE on the values of _n_ about a million.
 
-<h2><a class="btn btn-link" id="solution-5" data-toggle="collapse" href="#collapse-5" role="button" aria-expanded="false" aria-controls="collapse-5">Solution</a></h2>
-
-<div class="collapse" id="collapse-5">
+<details>
+    <summary><h2>Solution</h2></summary>
 
 While this may not sound like a number theory question, it actually is.
 
 The trick is that we can tell exactly which bulbs will be turned on.  In fact, these will be squares (1, 4, 9, 16, &hellip;).  If you wonder why&mdash;count how many times some bulb _k_ is switched.  It turns out that bulb number _k_ is switched as many times as many divisors _k_ has.  From the prime decomposition it follow that we will change an odd number of times only the lightbulbs, all prime exponents of which are even, a.k.a. the squares.  It remains to note that there are _[√n]_ squares up to _n_.
 
-<a id="complexity-4"></a>
 ### Complexity
 
 _O(1)_ ofc.
 
-<a id="code-4"></a>
 ### Code
 
 ```python
@@ -332,4 +317,4 @@ class Solution:
 
 ```
 
-</div>
+</details>
