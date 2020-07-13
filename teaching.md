@@ -7,7 +7,7 @@
 </p>
 
 <div class="row">
-    <div class="col-5 text-right">
+    <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
         <img src="./assets/nis.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2" style="margin: auto; text-align: center; vertical-align: middle;">
@@ -17,7 +17,7 @@
             </div>
         </div>
     </div>
-    <div class="col-5 text-left">
+    <div class="col-5 text-left" style="margin-top: auto; margin-bottom: auto;">
         <h3>
             NIS camp
         </h3>
@@ -31,7 +31,7 @@
 </div>
 
 <div class="row">
-    <div class="col-5 text-right">
+    <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
         <h3>
             Polonskyi
         </h3>
@@ -49,13 +49,13 @@
             </div>
         </div>
     </div>
-    <div class="col-5 text-left">
+    <div class="col-5 text-left" style="margin-top: auto; margin-bottom: auto;">
         <img src="./assets/polonskyi.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
 <div class="row">
-    <div class="col-5 text-right">
+    <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
         <img src="./assets/nis.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2" style="margin: auto; text-align: center; vertical-align: middle;">
@@ -65,7 +65,7 @@
             </div>
         </div>
     </div>
-    <div class="col-5 text-left">
+    <div class="col-5 text-left" style="margin-top: auto; margin-bottom: auto;">
         <h3>
             NIS camp
         </h3>
@@ -79,7 +79,7 @@
 </div>
 
 <div class="row">
-    <div class="col-5 text-right">
+    <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
         <h3>
             Polonskyi
         </h3>
@@ -97,13 +97,13 @@
             </div>
         </div>
     </div>
-    <div class="col-5 text-left">
+    <div class="col-5 text-left" style="margin-top: auto; margin-bottom: auto;">
         <img src="./assets/polonskyi.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
 <div class="row">
-    <div class="col-5 text-right">
+    <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
         <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2" style="margin: auto; text-align: center; vertical-align: middle;">
@@ -113,7 +113,7 @@
             </div>
         </div>
     </div>
-    <div class="col-5 text-left">
+    <div class="col-5 text-left" style="margin-top: auto; margin-bottom: auto;">
         <h3>
             Mathematical Olymp
         </h3>
@@ -127,7 +127,7 @@
 </div>
 
 <div class="row">
-    <div class="col-5 text-right">
+    <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
         <h3>
             Mudramakitra (Smart Head)
         </h3>
@@ -145,13 +145,13 @@
             </div>
         </div>
     </div>
-    <div class="col-5 text-left">
+    <div class="col-5 text-left" style="margin-top: auto; margin-bottom: auto;">
         <img src="./assets/mudramakitra.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
 <div class="row">
-    <div class="col-5 text-right">
+    <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
         <img src="./assets/mataboo.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2" style="margin: auto; text-align: center; vertical-align: middle;">
@@ -161,7 +161,7 @@
             </div>
         </div>
     </div>
-    <div class="col-5 text-left">
+    <div class="col-5 text-left" style="margin-top: auto; margin-bottom: auto;">
         <h3>
             MaTaBoo
         </h3>
@@ -172,7 +172,7 @@
 </div>
 
 <div class="row">
-    <div class="col-5 text-right">
+    <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
         <h3>
             Symplex
         </h3>
@@ -190,13 +190,13 @@
             </div>
         </div>
     </div>
-    <div class="col-5 text-left">
+    <div class="col-5 text-left" style="margin-top: auto; margin-bottom: auto;">
         <img src="./assets/symplex.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
 <div class="row">
-    <div class="col-5 text-right">
+    <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
         <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2" style="margin: auto; text-align: center; vertical-align: middle;">
@@ -206,7 +206,7 @@
             </div>
         </div>
     </div>
-    <div class="col-5 text-left">
+    <div class="col-5 text-left" style="margin-top: auto; margin-bottom: auto;">
         <h3>
             Mathematical Olymp
         </h3>
@@ -220,7 +220,7 @@
 </div>
 
 <div class="row">
-    <div class="col-5 text-right">
+    <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
         <h3>
             Cyfra (Digit)
         </h3>
@@ -238,13 +238,13 @@
             </div>
         </div>
     </div>
-    <div class="col-5 text-left">
+    <div class="col-5 text-left" style="margin-top: auto; margin-bottom: auto;">
         <img src="./assets/cyfra.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
 <div class="row">
-    <div class="col-5 text-right">
+    <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
         <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2" style="margin: auto; text-align: center; vertical-align: middle;">
@@ -254,7 +254,7 @@
             </div>
         </div>
     </div>
-    <div class="col-5 text-left">
+    <div class="col-5 text-left" style="margin-top: auto; margin-bottom: auto;">
         <h3>
             Mathematical Olymp
         </h3>
