@@ -1,3 +1,4 @@
+<div style="background-image: url(./assets/back.png); background-size: 100% 100%;">
 <p class="mt-3">
   It is a more detailed description of my teaching experience.  It includes students, classes, lectures, schools, etc.
 </p>
@@ -264,4 +265,5 @@
             I believe that my lectures were mostly compiled from the excellent russian book <a href="https://www.mccme.ru/free-books/olymp/matprob.pdf">Mathematics in Problems</a>.  A more extensive overview of such lectures can be found in the corresponding section for 2018.
         </p>
     </div>
+</div>
 </div>
