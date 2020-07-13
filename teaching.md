@@ -101,7 +101,7 @@
 
 <div class="row">
     <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
-        <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/matholymp.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2" style="margin: auto; text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
@@ -194,7 +194,7 @@
 
 <div class="row">
     <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
-        <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/matholymp.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2" style="margin: auto; text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
@@ -242,7 +242,7 @@
 
 <div class="row">
     <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
-        <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/matholymp.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2" style="margin: auto; text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
