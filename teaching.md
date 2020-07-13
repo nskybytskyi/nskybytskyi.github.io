@@ -1,6 +1,9 @@
 <p class="mt-3">
   It is a more detailed description of my teaching experience.  It includes students, classes, lectures, schools, etc.
 </p>
+<p class="text-danger">
+    At the moment this entire page looks ugly on mobile.  Please view it from pc.
+</p>
 
 <div class="row">
     <div class="col-5 text-right">
@@ -9,7 +12,7 @@
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
             <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2vw; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">June'20</span>
+                <span style="vertical-align: middle; display: table-cell;">Jun'20</span>
             </div>
         </div>
     </div>
@@ -40,8 +43,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2vw; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">May &ndash; June'20</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 1vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">May'20<br>&ndash;<br>Jun'20</span>
             </div>
         </div>
     </div>
@@ -88,8 +91,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2vw; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">Sept'19 &ndash; Feb'20</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 1vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">Sep'19<br>&ndash;<br>Feb'20</span>
             </div>
         </div>
     </div>
@@ -153,7 +156,7 @@
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
             <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2vw; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">July'19</span>
+                <span style="vertical-align: middle; display: table-cell;">Jul'19</span>
             </div>
         </div>
     </div>
@@ -181,8 +184,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2vw; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">Feb &ndash; May'19</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 1vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">Feb'19<br>&ndash;<br>May'19</span>
             </div>
         </div>
     </div>
@@ -229,8 +232,8 @@
     </div>
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 2vw; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">May'17 &ndash; Oct'18</span>
+            <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 1vw; display: table;">
+                <span style="vertical-align: middle; display: table-cell;">May'17<br>&ndash;<br>Oct'18</span>
             </div>
         </div>
     </div>
