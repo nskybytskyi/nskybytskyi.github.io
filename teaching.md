@@ -6,9 +6,11 @@
     <div class="col-5 text-right">
         <img src="./assets/nis.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
-            June'20
+    <div class="col-2">
+        <div class="text-center embed-responsive embed-responsive-1by1">
+            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+                June'20
+            </div>
         </div>
     </div>
     <div class="col-5 text-left">
@@ -36,9 +38,11 @@
             Our lessons were temporarily paused by Covid19, but resumed again in April, and I returned to the program in May.  I've recorded several videos, and will release them on YouTube soon, for you to get a taste of IMO team preparation. 
         </p>
     </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
-            May &ndash; June'20
+    <div class="col-2">
+        <div class="text-center embed-responsive embed-responsive-1by1">
+            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+                May &ndash; June'20
+            </div>
         </div>
     </div>
     <div class="col-5 text-left">
@@ -50,9 +54,11 @@
     <div class="col-5 text-right">
         <img src="./assets/nis.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
-            February'20
+    <div class="col-2">
+        <div class="text-center embed-responsive embed-responsive-1by1">
+            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+                February'20
+            </div>
         </div>
     </div>
     <div class="col-5 text-left">
@@ -80,9 +86,11 @@
             My lectures are available <a href="https://sky-nik.github.io/teaching/sources/polonskyi/">here</a>.  Beware!  These are quite advanced topics, may be challenging to understand for the beginners and younger students.
         </p>
     </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
-            September'19 &ndash; February'20
+    <div class="col-2">
+        <div class="text-center embed-responsive embed-responsive-1by1">
+            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+                September'19 &ndash; February'20
+            </div>
         </div>
     </div>
     <div class="col-5 text-left">
@@ -94,9 +102,11 @@
     <div class="col-5 text-right">
         <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
-            August'19
+    <div class="col-2">
+        <div class="text-center embed-responsive embed-responsive-1by1">
+            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+                August'19
+            </div>
         </div>
     </div>
     <div class="col-5 text-left">
@@ -124,9 +134,11 @@
             The approximate level of participants was national olympiad diploma and city olympiad prize places.  I was an invited lecturer in grades from 7<sup>th</sup> to 11<sup>th</sup>, and conducted about a dozen lectures.  A complete collection of my lectures is <a href="./assets/mudramakitra.pdf">here</a>
         </p>
     </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
-            August'19
+    <div class="col-2">
+        <div class="text-center embed-responsive embed-responsive-1by1">
+            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+                August'19
+            </div>
         </div>
     </div>
     <div class="col-5 text-left">
@@ -138,9 +150,11 @@
     <div class="col-5 text-right">
         <img src="./assets/mataboo.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
-            July'19
+    <div class="col-2">
+        <div class="text-center embed-responsive embed-responsive-1by1">
+            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+                July'19
+            </div>
         </div>
     </div>
     <div class="col-5 text-left">
@@ -165,9 +179,11 @@
             I'm afraid that my lectures for this period are not very well-documented.  I guess this is because I mostly reused the past materials for new students.  Reusability is, however, an indicator of good lectures (as well as an indicator of a good code).
         </p>
     </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
-            February &ndash; May'19
+    <div class="col-2">
+        <div class="text-center embed-responsive embed-responsive-1by1">
+            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+                February &ndash; May'19
+            </div>
         </div>
     </div>
     <div class="col-5 text-left">
@@ -179,9 +195,11 @@
     <div class="col-5 text-right">
         <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
-            August'18
+    <div class="col-2">
+        <div class="text-center embed-responsive embed-responsive-1by1">
+            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+                August'18
+            </div>
         </div>
     </div>
     <div class="col-5 text-left">
@@ -209,9 +227,11 @@
             A complete collection of my lectures for 7<sup>th</sup> grade students can be found <a href="./assets/digit-7.pdf">here</a>.  Beware!  It is 41 pages long and contains 463 problems.  Yet another collection of problems for independent study proposed to the students as a summer homework is <a href="./assets/digit-summer.pdf">here</a>.  17 pages and 170 problems.  A partial collection (autumn lectures only) of the materials for 8<sup>th</sup> grade students is located <a href="./assets/digit-8.pdf">here</a>.  Relatively short, 13 pages and 143 problems only. 
         </p>
     </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
-            May'17 &ndash; October'18
+    <div class="col-2">
+        <div class="text-center embed-responsive embed-responsive-1by1">
+            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+                May'17 &ndash; October'18
+            </div>
         </div>
     </div>
     <div class="col-5 text-left">
@@ -223,9 +243,11 @@
     <div class="col-5 text-right">
         <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center embed-responsive embed-responsive-1by1">
-        <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
-            August'17
+    <div class="col-2">
+        <div class="text-center embed-responsive embed-responsive-1by1">
+            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+                August'17
+            </div>
         </div>
     </div>
     <div class="col-5 text-left">
