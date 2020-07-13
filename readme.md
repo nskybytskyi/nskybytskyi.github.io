@@ -57,7 +57,7 @@ I always considered university as some sort of free environment, not visiting ha
 </p>
 
 <p class="text-right">
-    <a href="/education" class="btn btn-primary disabled" role="button" aria-disabled="true">
+    <a href="/education.html" class="btn btn-primary" role="button">
         Read More
     </a>
 </p>
@@ -146,7 +146,7 @@ I also teach online and abroad.  Check out my [telegram channel](https://t.me/th
 </div>
 
 <p class="text-right">
-    <a href="/teaching" class="btn btn-primary" role="button">
+    <a href="/teaching.html" class="btn btn-primary" role="button">
         Read More
     </a>
 </p>
