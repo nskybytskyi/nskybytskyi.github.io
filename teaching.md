@@ -38,7 +38,7 @@
         May &ndash; June'20
     </div>
     <div class="col-5 text-left">
-        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/polonskyi.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
@@ -68,14 +68,14 @@
             Polonskyi
         </h3>
         <p>
-            Year-round preparation program for IMO team and reserve.  I was one of the main lecturers for the program, conducting 14 lectures during the year, more than any other mentor.  My lectures are available <a href="https://sky-nik.github.io/teaching/sources/polonskyi/">here</a>.  Beware!  These are quite advanced topics, may be challenging to understand for the beginners and younger students.
+            Year-round preparation program for IMO team and reserve.  It was founded as a division of Symplex school.  I was one of the main lecturers for the program, conducting 14 lectures during the year, more than any other mentor.  My lectures are available <a href="https://sky-nik.github.io/teaching/sources/polonskyi/">here</a>.  Beware!  These are quite advanced topics, may be challenging to understand for the beginners and younger students.
         </p>
     </div>
     <div class="col-2 text-center">
         September'19 &ndash; February'20
     </div>
     <div class="col-5 text-left">
-        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/polonskyi.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
@@ -121,7 +121,7 @@
 
 <div class="row">
     <div class="col-5 text-right">
-        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/mataboo.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2 text-center">
         July'19
