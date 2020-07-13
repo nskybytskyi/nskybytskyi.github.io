@@ -45,7 +45,7 @@
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
             <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 1.5vw; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">May'20<hr style="color: white; background-color: white; height: 2px; border-width: 0;">Jun'20</span>
+                <span style="vertical-align: middle; display: table-cell;">May'20<hr style="background-color: white; height: 1px; margin: 5px 0px;">Jun'20</span>
             </div>
         </div>
     </div>
@@ -93,7 +93,7 @@
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
             <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 1.5vw; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">Sep'19<hr style="color: white; background-color: white; height: 2px; border-width: 0;">Feb'20</span>
+                <span style="vertical-align: middle; display: table-cell;">Sep'19<hr style="background-color: white; height: 1px; margin: 5px 0px;">Feb'20</span>
             </div>
         </div>
     </div>
@@ -186,7 +186,7 @@
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
             <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 1.5vw; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">Feb'19<hr style="color: white; background-color: white; height: 2px; border-width: 0;">May'19</span>
+                <span style="vertical-align: middle; display: table-cell;">Feb'19<hr style="background-color: white; height: 1px; margin: 5px 0px;">May'19</span>
             </div>
         </div>
     </div>
@@ -234,7 +234,7 @@
     <div class="col-2" style="text-align: center; vertical-align: middle;">
         <div class="text-center embed-responsive embed-responsive-1by1">
             <div class="embed-responsive-item bg-primary text-white" style="border-radius: 50%; font-size: 1.5vw; display: table;">
-                <span style="vertical-align: middle; display: table-cell;">May'17<hr style="color: white; background-color: white; height: 2px; border-width: 0;">Oct'18</span>
+                <span style="vertical-align: middle; display: table-cell;">May'17<hr style="background-color: white; height: 1px; margin: 5px 0px;">Oct'18</span>
             </div>
         </div>
     </div>
