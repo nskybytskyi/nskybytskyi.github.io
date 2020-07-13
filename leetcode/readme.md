@@ -27,7 +27,7 @@ Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
 ```
 
 <details>
-    <summary><h2>Solution</h2></summary>
+    <h2><summary>Solution</summary></h2>
 
 Note that in an optimal subsets of houses which we can rob there won't be three consecutive not robbed houses.  Otherwise, we could've robbed the middle of them and increase our profit.  At this point, the problem sounds something like fibonacci steps, i.e. pass one house or pass two houses.  Fibonacci should remaind us of the dynamic programming.
 
@@ -85,7 +85,7 @@ Output: [[1,2,6], [1,3,5], [2,3,4]]
 ```
 
 <details>
-    <summary><h2>Solution</h2></summary>
+    <h2><summary>Solution</summary></h2>
 
 We can use a recursive approach if we suppose that we take digits in descending order and add another (optional) parameter _d_ to our function, indicating the largest digit which we still can use.  The logic behind is the following: let's try to construct an answer starting with some digit _c_.  Then we'll be left with the original problem with _k_ replaced by _k - 1_, _n_ replaced by _n - c_, and _d_ replaced by _c - 1_.
 
@@ -137,7 +137,7 @@ Output: 45
 Assume that the total area is never beyond the maximum possible value of **int**.
 
 <details>
-    <summary><h2>Solution</h2></summary>
+    <h2><summary>Solution</summary></h2>
 
 It's an easy geometry task, complicated by rather messy input format.  We are going to use inclusion/exclusion formula.  It means that we have to find the intersection area of the rectangles.  It can be easily found if you recall that a rectangle is an intersection of four half-planes and notice that some of these half-planes include others.  This observation allows us to calculate the potential vertices of the intersection. 
 
@@ -203,7 +203,7 @@ Output: [3, 4]
 - The height of a rooted tree is the number of edges on the longest downward path between the root and a leaf.
 
 <details>
-    <summary><h2>Solution</h2></summary>
+    <h2><summary>Solution</summary></h2>
 
 A tree can have up to two centers (roots that lead to MHTs).  One can verify this claim by supposing the contrary, considering three centers and corresponding longest paths.  If you draw a picture, it should be clear how to construct a longer path for one of the centers, violating the assumption.
 
@@ -298,7 +298,7 @@ We are going to simulate the process.
 It is clear that we will make _n + n/2 + n/3 + ... + n/n_ switches.  But how do you calculate this sum?  Well, one can recognize the integral from _1_ to _n_ of _n/x_, which is _O(n log n)_.  Should work for small inputs.  However, it will TLE on the values of _n_ about a million.
 
 <details>
-    <summary><h2>Solution</h2></summary>
+    <h2><summary>Solution</summary></h2>
 
 While this may not sound like a number theory question, it actually is.
 
