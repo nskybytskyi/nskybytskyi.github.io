@@ -1,7 +1,4 @@
 <div style="background-image: url(./assets/back.png); background-size: 100% 100%;">
-<p class="mt-3">
-  It is a more detailed description of my teaching experience.  It includes students, classes, lectures, schools, etc.
-</p>
 <p class="text-danger">
     At the moment this entire page looks ugly on mobile.  Please view it from pc.
 </p>
