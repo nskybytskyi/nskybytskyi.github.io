@@ -28,6 +28,7 @@ Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
 <h2><a class="btn btn-link" id="solution-1" data-toggle="collapse" href="#collapse-1" role="button" aria-expanded="false" aria-controls="collapse-1">Solution</a></h2>
 
 <div class="collapse" id="collapse-1">
+
 Note that in an optimal subsets of houses which we can rob there won't be three consecutive not robbed houses.  Otherwise, we could've robbed the middle of them and increase our profit.  At this point, the problem sounds something like fibonacci steps, i.e. pass one house or pass two houses.  Fibonacci should remaind us of the dynamic programming.
 
 Indeed, we can already see most of the solution: maintain two `dp` arrayy with `dp[0][i]` equalling the max profit we can make out of first _i_ houses if we **don't** rob the house _i_, and `dp[1][i]` equalling the max profit we can make out of first _i_ houses if we **do** rob the house _i_.
@@ -61,6 +62,7 @@ class Solution:
         return max(dpRob(nums[1:]), dpRob(nums[:-1]))
 
 ```
+
 </div>
 
 <a id="216-combination-sum-iii"></a>
@@ -87,6 +89,7 @@ Output: [[1,2,6], [1,3,5], [2,3,4]]
 <h2><a class="btn btn-link" id="solution-2" data-toggle="collapse" href="#collapse-2" role="button" aria-expanded="false" aria-controls="collapse-2">Solution</a></h2>
 
 <div class="collapse" id="collapse-2">
+
 We can use a recursive approach if we suppose that we take digits in descending order and add another (optional) parameter _d_ to our function, indicating the largest digit which we still can use.  The logic behind is the following: let's try to construct an answer starting with some digit _c_.  Then we'll be left with the original problem with _k_ replaced by _k - 1_, _n_ replaced by _n - c_, and _d_ replaced by _c - 1_.
 
 <a id="complexity-1"></a>
@@ -116,6 +119,7 @@ class Solution:
         return answers
 
 ```
+
 </div>
 
 <a id="223-rectangle-area"></a>
@@ -140,6 +144,7 @@ Assume that the total area is never beyond the maximum possible value of **int**
 <h2><a class="btn btn-link" id="solution-3" data-toggle="collapse" href="#collapse-3" role="button" aria-expanded="false" aria-controls="collapse-3">Solution</a></h2>
 
 <div class="collapse" id="collapse-3">
+
 It's an easy geometry task, complicated by rather messy input format.  We are going to use inclusion/exclusion formula.  It means that we have to find the intersection area of the rectangles.  It can be easily found if you recall that a rectangle is an intersection of four half-planes and notice that some of these half-planes include others.  This observation allows us to calculate the potential vertices of the intersection. 
 
 The only tricky point to watch out for is when the intersection is empty.  We address this by max-relaxation of the side lengths with zero.
@@ -161,6 +166,7 @@ class Solution:
         return area(a, b, c, d) + area(e, f, g, h) - area(max(a, e), max(b, f), min(c, g), min(d, h))
 
 ```
+
 </div>
 
 <a id="310-minimum-height-trees"></a>
@@ -207,6 +213,7 @@ Output: [3, 4]
 <h2><a class="btn btn-link" id="solution-4" data-toggle="collapse" href="#collapse-4" role="button" aria-expanded="false" aria-controls="collapse-4">Solution</a></h2>
 
 <div class="collapse" id="collapse-4">
+
 A tree can have up to two centers (roots that lead to MHTs).  One can verify this claim by supposing the contrary, considering three centers and corresponding longest paths.  If you draw a picture, it should be clear how to construct a longer path for one of the centers, violating the assumption.
 
 Any center is literally a center of any diameter.  This proposition can be proven in a similar fashion.  It remains to recall the [classical two-bfs algorithm](https://medium.com/@tbadr/tree-diameter-why-does-two-bfs-solution-work-b17ed71d2881) for finding a diameter of a tree.
@@ -274,6 +281,7 @@ class Solution:
             return [second_endpoint]
 
 ```
+
 </div>
 
 <a id="319-bulb-switcher"></a>
@@ -304,6 +312,7 @@ It is clear that we will make _n + n/2 + n/3 + ... + n/n_ switches.  But how do 
 <h2><a class="btn btn-link" id="solution-5" data-toggle="collapse" href="#collapse-5" role="button" aria-expanded="false" aria-controls="collapse-5">Solution</a></h2>
 
 <div class="collapse" id="collapse-5">
+
 While this may not sound like a number theory question, it actually is.
 
 The trick is that we can tell exactly which bulbs will be turned on.  In fact, these will be squares (1, 4, 9, 16, &hellip;).  If you wonder why&mdash;count how many times some bulb _k_ is switched.  It turns out that bulb number _k_ is switched as many times as many divisors _k_ has.  From the prime decomposition it follow that we will change an odd number of times only the lightbulbs, all prime exponents of which are even, a.k.a. the squares.  It remains to note that there are _[√n]_ squares up to _n_.
@@ -322,4 +331,5 @@ class Solution:
         return int(sqrt(n))
 
 ```
+
 </div>
