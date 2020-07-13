@@ -6,7 +6,7 @@
     <div class="col-5 text-right">
         <img src="./assets/nis.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center">
+    <div class="col-2 text-center" style="vertical-align: middle; border-radius: 50%; font-size: 3rem; background-color: gray;">
         June'20
     </div>
     <div class="col-5 text-left">
@@ -34,7 +34,7 @@
             Our lessons were temporarily paused by Covid19, but resumed again in April, and I returned to the program in May.  I've recorded several videos, and will release them on YouTube soon, for you to get a taste of IMO team preparation. 
         </p>
     </div>
-    <div class="col-2 text-center">
+    <div class="col-2 text-center" style="vertical-align: middle; border-radius: 50%; font-size: 3rem; background-color: gray;">
         May &ndash; June'20
     </div>
     <div class="col-5 text-left">
@@ -46,7 +46,7 @@
     <div class="col-5 text-right">
         <img src="./assets/nis.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center">
+    <div class="col-2 text-center" style="vertical-align: middle; border-radius: 50%; font-size: 3rem; background-color: gray;">
         February'20
     </div>
     <div class="col-5 text-left">
@@ -71,7 +71,7 @@
             Year-round preparation program for IMO team and reserve.  It was founded as a division of Symplex school.  I was one of the main lecturers for the program, conducting 14 lectures during the year, more than any other mentor.  My lectures are available <a href="https://sky-nik.github.io/teaching/sources/polonskyi/">here</a>.  Beware!  These are quite advanced topics, may be challenging to understand for the beginners and younger students.
         </p>
     </div>
-    <div class="col-2 text-center">
+    <div class="col-2 text-center" style="vertical-align: middle; border-radius: 50%; font-size: 3rem; background-color: gray;">
         September'19 &ndash; February'20
     </div>
     <div class="col-5 text-left">
@@ -83,7 +83,7 @@
     <div class="col-5 text-right">
         <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center">
+    <div class="col-2 text-center" style="vertical-align: middle; border-radius: 50%; font-size: 3rem; background-color: gray;">
         August'19
     </div>
     <div class="col-5 text-left">
@@ -111,7 +111,7 @@
             The approximate level of participants was national olympiad diploma and city olympiad prize places.  I was an invited lecturer in grades from 7<sup>th</sup> to 11<sup>th</sup>, and conducted about a dozen lectures.  A complete collection of my lectures is <a href="./assets/mudramakitra.pdf">here</a>
         </p>
     </div>
-    <div class="col-2 text-center">
+    <div class="col-2 text-center" style="vertical-align: middle; border-radius: 50%; font-size: 3rem; background-color: gray;">
         August'19
     </div>
     <div class="col-5 text-left">
@@ -123,7 +123,7 @@
     <div class="col-5 text-right">
         <img src="./assets/mataboo.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center">
+    <div class="col-2 text-center" style="vertical-align: middle; border-radius: 50%; font-size: 3rem; background-color: gray;">
         July'19
     </div>
     <div class="col-5 text-left">
@@ -148,7 +148,7 @@
             I'm afraid that my lectures for this period are not very well-documented.  I guess this is because I mostly reused the past materials for new students.  Reusability is, however, an indicator of good lectures (as well as an indicator of a good code).
         </p>
     </div>
-    <div class="col-2 text-center">
+    <div class="col-2 text-center" style="vertical-align: middle; border-radius: 50%; font-size: 3rem; background-color: gray;">
         February &ndash; May'19
     </div>
     <div class="col-5 text-left">
@@ -160,7 +160,7 @@
     <div class="col-5 text-right">
         <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center">
+    <div class="col-2 text-center" style="vertical-align: middle; border-radius: 50%; font-size: 3rem; background-color: gray;">
         August'18
     </div>
     <div class="col-5 text-left">
@@ -194,7 +194,7 @@
             A partial collection (autumn lectures only) of the materials for 8<sup>th</sup> grade students is located <a href="./assets/digit-8.pdf">here</a>.  Relatively short, 13 pages and 143 problems only. 
         </p>
     </div>
-    <div class="col-2 text-center">
+    <div class="col-2 text-center" style="vertical-align: middle; border-radius: 50%; font-size: 3rem; background-color: gray;">
         May'17 &ndash; October'18
     </div>
     <div class="col-5 text-left">
@@ -206,7 +206,7 @@
     <div class="col-5 text-right">
         <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-    <div class="col-2 text-center">
+    <div class="col-2 text-center" style="vertical-align: middle; border-radius: 50%; font-size: 3rem; background-color: gray;">
         August'17
     </div>
     <div class="col-5 text-left">
@@ -222,7 +222,7 @@
     </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-5 text-right">
         <h3>
             Sosnovyi
@@ -240,4 +240,4 @@
     <div class="col-5 text-left">
         <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
-</div>
+</div> -->
