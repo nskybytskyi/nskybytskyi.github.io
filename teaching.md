@@ -8,7 +8,7 @@
     </div>
     <div class="col-2">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+            <div class="embed-responsive-item bg-primary text-white" style="vertical-align: middle; border-radius: 50%; font-size: 2rem;">
                 June'20
             </div>
         </div>
@@ -40,7 +40,7 @@
     </div>
     <div class="col-2">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+            <div class="embed-responsive-item bg-primary text-white" style="vertical-align: middle; border-radius: 50%; font-size: 2rem;">
                 May &ndash; June'20
             </div>
         </div>
@@ -56,7 +56,7 @@
     </div>
     <div class="col-2">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+            <div class="embed-responsive-item bg-primary text-white" style="vertical-align: middle; border-radius: 50%; font-size: 2rem;">
                 February'20
             </div>
         </div>
@@ -88,7 +88,7 @@
     </div>
     <div class="col-2">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+            <div class="embed-responsive-item bg-primary text-white" style="vertical-align: middle; border-radius: 50%; font-size: 2rem;">
                 September'19 &ndash; February'20
             </div>
         </div>
@@ -104,7 +104,7 @@
     </div>
     <div class="col-2">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+            <div class="embed-responsive-item bg-primary text-white" style="vertical-align: middle; border-radius: 50%; font-size: 2rem;">
                 August'19
             </div>
         </div>
@@ -136,7 +136,7 @@
     </div>
     <div class="col-2">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+            <div class="embed-responsive-item bg-primary text-white" style="vertical-align: middle; border-radius: 50%; font-size: 2rem;">
                 August'19
             </div>
         </div>
@@ -152,7 +152,7 @@
     </div>
     <div class="col-2">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+            <div class="embed-responsive-item bg-primary text-white" style="vertical-align: middle; border-radius: 50%; font-size: 2rem;">
                 July'19
             </div>
         </div>
@@ -181,7 +181,7 @@
     </div>
     <div class="col-2">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+            <div class="embed-responsive-item bg-primary text-white" style="vertical-align: middle; border-radius: 50%; font-size: 2rem;">
                 February &ndash; May'19
             </div>
         </div>
@@ -197,7 +197,7 @@
     </div>
     <div class="col-2">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+            <div class="embed-responsive-item bg-primary text-white" style="vertical-align: middle; border-radius: 50%; font-size: 2rem;">
                 August'18
             </div>
         </div>
@@ -229,7 +229,7 @@
     </div>
     <div class="col-2">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+            <div class="embed-responsive-item bg-primary text-white" style="vertical-align: middle; border-radius: 50%; font-size: 2rem;">
                 May'17 &ndash; October'18
             </div>
         </div>
@@ -245,7 +245,7 @@
     </div>
     <div class="col-2">
         <div class="text-center embed-responsive embed-responsive-1by1">
-            <div class="embed-responsive-item bg-secondary" style="vertical-align: middle; border-radius: 50%; font-size: 3rem;">
+            <div class="embed-responsive-item bg-primary text-white" style="vertical-align: middle; border-radius: 50%; font-size: 2rem;">
                 August'17
             </div>
         </div>
