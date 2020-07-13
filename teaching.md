@@ -4,7 +4,7 @@
 
 <div class="row">
     <div class="col-5 text-right">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2 text-center">
         June'20
@@ -38,13 +38,13 @@
         May &ndash; June'20
     </div>
     <div class="col-5 text-left">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
 <div class="row">
     <div class="col-5 text-right">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2 text-center">
         February'20
@@ -75,13 +75,13 @@
         September'19 &ndash; February'20
     </div>
     <div class="col-5 text-left">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
 <div class="row">
     <div class="col-5 text-right">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2 text-center">
         August'19
@@ -115,13 +115,13 @@
         August'19
     </div>
     <div class="col-5 text-left">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
 <div class="row">
     <div class="col-5 text-right">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2 text-center">
         July'19
@@ -152,13 +152,13 @@
         February &ndash; May'19
     </div>
     <div class="col-5 text-left">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
 <div class="row">
     <div class="col-5 text-right">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2 text-center">
         August'18
@@ -198,13 +198,13 @@
         May'17 &ndash; October'18
     </div>
     <div class="col-5 text-left">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
 <div class="row">
     <div class="col-5 text-right">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2 text-center">
         August'17
@@ -238,6 +238,6 @@
         August'16
     </div>
     <div class="col-5 text-left">
-        <img src="./assets/black.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
