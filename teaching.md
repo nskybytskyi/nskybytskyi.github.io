@@ -81,7 +81,7 @@
 
 <div class="row">
     <div class="col-5 text-right">
-        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2 text-center">
         August'19
@@ -115,7 +115,7 @@
         August'19
     </div>
     <div class="col-5 text-left">
-        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/mudramakitra.png" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
@@ -158,7 +158,7 @@
 
 <div class="row">
     <div class="col-5 text-right">
-        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2 text-center">
         August'18
@@ -204,7 +204,7 @@
 
 <div class="row">
     <div class="col-5 text-right">
-        <img src="./assets/black.png" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="./assets/matholymp.jpg" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-2 text-center">
         August'17
