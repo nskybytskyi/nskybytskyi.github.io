@@ -30,11 +30,13 @@ After high school, I entered the Taras Shevchenko National University of Kyiv.  
 I do write a lot of lecture notes on my laptops.  Some of my major works can be found [here](https://github.com/csc-knu).  These include, but are not limited to [System Programming](https://csc-knu.github.io/sys-prog/lectures/tex/00+title.pdf), [Mathematical Physics](https://csc-knu.github.io/mph/lectures/) in three chapters, [Differential Equations](https://csc-knu.github.io/de/lect/de-cover.pdf), [Numerical Analysis](https://csc-knu.github.io/numerical-analysis/lectures), [Data Analysis](https://github.com/AndrewKhoma/data-analysis/blob/master/lec/data_analysis.pdf), and [Optimal Control Theory](https://github.com/Sky-Nik/control-theory/blob/master/ControlTheoryProblemsSolutions.pdf).  More than a thousand pages overall, I guess.
 
 <blockquote>
-    University is a free environment: sex, drugs, and rock'n'roll. <br>
-    Never forget about grades though.
-    <footer>
-        Nikita Skybytskyi.
-    </footer>
+    <div class="alert alert-danger" role="alert">
+        University is a free environment: sex, drugs, and rock'n'roll. <br>
+        Never forget about grades though.
+        <footer>
+            Nikita Skybytskyi.
+        </footer>
+    </div>
 </blockquote>
 
 ### Freedom and Grades 
@@ -43,7 +45,9 @@ I always considered university as some sort of free environment, not visiting ha
 
 <div class="row">
     <div class="col-6 text-center">
-        <h5>going to the last Friday lecture with cider</h5>
+        <div class="alert alert-warning" role="alert">
+            <h5>going to the last Friday lecture with cider</h5>
+        </div>
         <img src="./assets/cider.jpg" alt="image-of-me-with-cider" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-6 text-center">
@@ -96,7 +100,7 @@ In July 2018 I started an internship at [BetterMe](https://betterme.world/), a f
 In May 2019, after the internship, I came back to Yandex School of Data Analysis, completing various courses, ranging from programming languages and advanced mathematical courses to external memory algorithms and natural language processing.  I like this place, as it gathers many people with completely different backgrounds but with one goal of advanced education not available at most post-soviet and European universities.
 
 <blockquote>
-    You are a very cool guy.  It will be a pleasure to meet you again
+    You are a very cool guy.  It will be a pleasure to meet you again.
     <footer>
         My YSDA interviewer Aleksey Tolstikov.
     </footer>
@@ -108,7 +112,9 @@ After retiring from olympiad mathematics I wanted to keep my mind busy with some
 
 <div class="row">
     <div class="col-12 text-center">
-        <h5>solving some competetive programming problem</h5>
+        <div class="alert alert-warning" role="alert">
+            <h5>solving some competetive programming problem</h5>
+        </div>
         <img src="./assets/programming.jpg" alt="me-programming" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
@@ -160,10 +166,12 @@ I also teach online and abroad.  Check out my [telegram channel](https://t.me/th
 I like brain-teasing linguistic challenges.  In my school years I even took part in some competitions.  I guess I am still mentioned somewhere on a wonderful resource [Ling.org.ua](https://ling.org.ua/) as a medalist of some competition.  Later on I even composed one problem.  You can check its statement in Ukrainian [here](./assets/ling.pdf).
 
 <blockquote>
-    I like solving brain-teasing challenges.
-    <footer>
-        Nikita Skybytskyi.
-    </footer>
+    <div class="alert alert-warning" role="alert">
+        I like solving brain-teasing challenges.
+        <footer>
+            Nikita Skybytskyi.
+        </footer>
+    </div>
 </blockquote>
 
 ### English
@@ -195,10 +203,12 @@ I try to take a glimpse of many different languages.  In particular, I tried Spa
 I love running and cycling.  I took part in two Kyiv city half-marathons in the falls of 2018 and 2019, and plan to participate in more events in the future.  In the latter years cycling becomes an increasingly popular, fast, and most importantly safe way to move around Kyiv, despite the very slow official approvement of bike routes, and [hilarious length measurement manipulations](http://kievvlast.com.ua/news/klichko-zayavil-chto-v-kieve-obshhaya-dlina-velodorozhek-sostavlyaet-pochti-100-kilometrov?noredirect=true) (they measure as if every road is bidirectional).
 
 <blockquote>
-    I hope one day bikes will be as common as the subway.
-    <footer>
-        Nikita Skybytskyi.
-    </footer>
+    <div class="alert alert-warning" role="alert">
+        I hope one day bikes will be as common as the subway.
+        <footer>
+            Nikita Skybytskyi.
+        </footer>
+    </div>
 </blockquote>
 
 I own a Specialized bike and Reebok sneakers &mdash; the only ones suitable for my steep foot lift.  Took a whole day to find them, but man they are good.

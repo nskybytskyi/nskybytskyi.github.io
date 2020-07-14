@@ -1,7 +1,7 @@
 <div style="background-image: url(./assets/back.png); background-size: 100% 100%;">
-<p class="text-danger">
+<div class="alert alert-danger" role="alert">
     At the moment this entire page looks ugly on mobile.  Please view it from pc.
-</p>
+</div>
 
 <div class="row">
     <div class="col-5 text-right" style="margin-top: auto; margin-bottom: auto;">
