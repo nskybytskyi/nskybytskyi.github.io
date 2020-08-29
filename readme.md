@@ -29,29 +29,17 @@ After high school, I entered the Taras Shevchenko National University of Kyiv.  
 
 I do write a lot of lecture notes on my laptops.  Some of my major works can be found [here](https://github.com/csc-knu).  These include, but are not limited to [System Programming](https://csc-knu.github.io/sys-prog/lectures/tex/00+title.pdf), [Mathematical Physics](https://csc-knu.github.io/mph/lectures/) in three chapters, [Differential Equations](https://csc-knu.github.io/de/lect/de-cover.pdf), [Numerical Analysis](https://csc-knu.github.io/numerical-analysis/lectures), [Data Analysis](https://github.com/AndrewKhoma/data-analysis/blob/master/lec/data_analysis.pdf), and [Optimal Control Theory](https://github.com/Sky-Nik/control-theory/blob/master/ControlTheoryProblemsSolutions.pdf).  More than a thousand pages overall, I guess.
 
-<blockquote>
-    <div class="alert alert-danger" role="alert">
-        University is a free environment: sex, drugs, and rock'n'roll. <br>
-        Never forget about grades though.
-        <footer>
-            Nikita Skybytskyi.
-        </footer>
-    </div>
-</blockquote>
-
 ### Freedom and Grades 
 
 I always considered university as some sort of free environment, not visiting half of my lectures, and sometimes getting to know my instructor's name towards the end of the semester.  Nevertheless, I always did all the lab work and was getting good marks in the end.  Consequently, I finished with a GPA of 94.68/100, the best in my group by quite a margin.  I graduated with high honours in 2020, now a Bachelor of Sciences, majored in Applied Mathematics.
 
 <div class="row">
     <div class="col-6 text-center">
-        <div class="alert alert-warning" role="alert">
-            <h5>going to the last Friday lecture with cider</h5>
-        </div>
+        <h5>after last Friday lecture</h5>
         <img src="./assets/cider.jpg" alt="image-of-me-with-cider" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
     <div class="col-6 text-center">
-        <h5>sleeping wherever I can between lectures</h5>
+        <h5>relaxing between lectures</h5>
         <img src="./assets/sleeping.jpg" alt="image-of-me-sleeping" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
@@ -112,9 +100,7 @@ After retiring from olympiad mathematics I wanted to keep my mind busy with some
 
 <div class="row">
     <div class="col-12 text-center">
-        <div class="alert alert-warning" role="alert">
-            <h5>solving some competetive programming problem</h5>
-        </div>
+        <h5>solving competetive programming problem</h5>
         <img src="./assets/programming.jpg" alt="me-programming" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
@@ -165,15 +151,6 @@ I also teach online and abroad.  Check out my [telegram channel](https://t.me/th
 
 I like brain-teasing linguistic challenges.  In my school years I even took part in some competitions.  I guess I am still mentioned somewhere on a wonderful resource [Ling.org.ua](https://ling.org.ua/) as a medalist of some competition.  Later on I even composed one problem.  You can check its statement in Ukrainian [here](./assets/ling.pdf).
 
-<blockquote>
-    <div class="alert alert-warning" role="alert">
-        I like solving brain-teasing challenges.
-        <footer>
-            Nikita Skybytskyi.
-        </footer>
-    </div>
-</blockquote>
-
 ### English
 
 I also like learning real languages.  However, my approach is rather intuitive and is not advised to use if you want to learn some language quickly.  I consider it more like a recreational activity in between working hours.  [Duo](https://www.duolingo.com/learn) is quite fun if your schedule is not tight.  Otherwise, I suggest turning to some professional help, especially if you are preparing for some exam, like TOEFL or IELTS.
@@ -203,12 +180,7 @@ I try to take a glimpse of many different languages.  In particular, I tried Spa
 I love running and cycling.  I took part in two Kyiv city half-marathons in the falls of 2018 and 2019, and plan to participate in more events in the future.  In the latter years cycling becomes an increasingly popular, fast, and most importantly safe way to move around Kyiv, despite the very slow official approvement of bike routes, and [hilarious length measurement manipulations](http://kievvlast.com.ua/news/klichko-zayavil-chto-v-kieve-obshhaya-dlina-velodorozhek-sostavlyaet-pochti-100-kilometrov?noredirect=true) (they measure as if every road is bidirectional).
 
 <blockquote>
-    <div class="alert alert-warning" role="alert">
-        I hope one day bikes will be as common as the subway.
-        <footer>
-            Nikita Skybytskyi.
-        </footer>
-    </div>
+    I hope one day bikes will be as common as the subway.
 </blockquote>
 
 I own a Specialized bike and Reebok sneakers &mdash; the only ones suitable for my steep foot lift.  Took a whole day to find them, but man they are good.
