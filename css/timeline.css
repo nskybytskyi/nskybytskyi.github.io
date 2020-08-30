@@ -35,7 +35,7 @@
   position: absolute;
   width: 25px;
   height: 25px;
-  right: -18px;
+  right: -13px;
   background-color: white;
   border: 5px solid #007bff;
   top: 15px;
@@ -83,15 +83,16 @@
 
 /* Fix the circle for containers on the right side */
 .tlright::after {
-  left: -17px;
+  left: -13px;
 }
 
 /* The actual content */
 .tlcontent {
-  padding: 20px 30px;
+  padding: 15px 20px;
   /*background-color: #007bff;*/
   position: relative;
   border-radius: 6px;
+  border: solid #007bff;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
@@ -118,7 +119,7 @@
 
     /* Make sure all circles are at the same spot */
     .tlleft::after, .tlright::after {
-        left: 15px;
+        left: 18px;
     }
 
     /* Make all right containers behave like the left ones */
