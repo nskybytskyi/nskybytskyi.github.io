@@ -19,7 +19,7 @@
             NIS camp
         </h3>
         <p>
-            Nazarbayev Intellectual Schools is a network of high schools in Kazakhstan, created for the most talanted students with the support of the First President.   They regularly have training camps, and this was the second time in a row they invited me to conduct it.  
+            Nazarbayev Intellectual Schools is a network of high schools in Kazakhstan, created for the most talanted students with the support of the First President.  They regularly have training camps, and this was the second time in a row they invited me to conduct it.
         </p>
         <p>
             I was invited to prepare their team to the National olympiad, which was rescheduled to the beginning of July (and the rescheduled once again because of the Covid19).  This time we had to work online, which turned out to be just as good as offline.  In particular, we made a fantastic decision to record all the lectures.  Now you can access them <a href="https://www.youtube.com/playlist?list=PL5XMnwBFMSgfhYAR069_s8iKkQYO59BzX">on YouTube</a>.
