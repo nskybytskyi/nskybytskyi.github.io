@@ -2,7 +2,7 @@
     Statistics
 </h1>
 
-<div class="row text-center">
+<div class="row text-center counter-container">
     <div class="col">
         <div class="counter">
             <i class="fa fa-clock fa-2x"></i>
@@ -21,7 +21,7 @@
         <div class="counter">
             <i class="fa fa-award fa-2x"></i>
             <h2 class="timer count-title count-number" data-to="40" data-speed="1500"></h2>
-            <p class="count-text ">National MO diplomas</p>
+            <p class="count-text ">National&nbsp;MO diplomas</p>
         </div>
     </div>
     <div class="col">
