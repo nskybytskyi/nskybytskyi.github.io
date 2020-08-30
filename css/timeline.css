@@ -14,7 +14,7 @@
   content: '';
   position: absolute;
   width: 6px;
-  background-color: skyblue;
+  background-color: #007bff;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -37,7 +37,7 @@
   height: 25px;
   right: -18px;
   background-color: white;
-  border: 5px solid skyblue;
+  border: 5px solid #007bff;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -62,9 +62,9 @@
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid skyblue;
+  border: medium solid #007bff;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent skyblue;
+  border-color: transparent transparent transparent #007bff;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -76,9 +76,9 @@
   width: 0;
   z-index: 1;
   left: 30px;
-  border: medium solid skyblue;
+  border: medium solid #007bff;
   border-width: 10px 10px 10px 0;
-  border-color: transparent skyblue transparent skyblue;
+  border-color: transparent #007bff transparent #007bff;
 }
 
 /* Fix the circle for containers on the right side */
@@ -89,7 +89,7 @@
 /* The actual content */
 .tlcontent {
   padding: 20px 30px;
-  background-color: skyblue;
+  /*background-color: #007bff;*/
   position: relative;
   border-radius: 6px;
 }
@@ -111,9 +111,9 @@
     /* Make sure that all arrows are pointing leftwards */
     .tlcontainer::before {
         left: 60px;
-        border: medium solid skyblue;
+        border: medium solid #007bff;
         border-width: 10px 10px 10px 0;
-        border-color: transparent skyblue transparent transparent;
+        border-color: transparent #007bff transparent transparent;
     }
 
     /* Make sure all circles are at the same spot */
