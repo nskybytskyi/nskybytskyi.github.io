@@ -40,16 +40,6 @@
     </div>
 </div>
 
-<blockquote>
-    Teaching olympiad mathematics for the fifth year.<br>
-    Prepared 4 International Math Olympiad medalists,<br>
-    approximately 40 National Math Olympiad medalists,<br>
-    and took part in the education of more than 400 students.
-    <footer>
-        some statistics
-    </footer>
-</blockquote>
-
 <h1>
     Timeline
 </h1>
