@@ -1,3 +1,59 @@
+<h1>
+    Statistics
+</h1>
+
+<div class="row text-center">
+    <div class="col">
+        <div class="counter">
+            <i class="fa fa-clock fa-2x"></i>
+            <h2 class="timer count-title count-number" data-to="4" data-speed="1500"></h2>
+            <p class="count-text">years</p>
+        </div>
+    </div>
+    <div class="col">
+        <div class="counter">
+            <i class="fa fa-medal fa-2x"></i>
+            <h2 class="timer count-title count-number" data-to="7" data-speed="1500"></h2>
+            <p class="count-text">IMO medals</p>
+        </div>
+    </div>
+    <div class="col">
+        <div class="counter">
+            <i class="fa fa-award fa-2x"></i>
+            <h2 class="timer count-title count-number" data-to="40" data-speed="1500"></h2>
+            <p class="count-text ">National MO diplomas</p>
+        </div>
+    </div>
+    <div class="col">
+        <div class="counter">
+            <i class="fa fa-chalkboard fa-2x"></i>
+            <h2 class="timer count-title count-number" data-to="200" data-speed="1500"></h2>
+            <p class="count-text">lectures</p>
+        </div>
+    </div>
+    <div class="col">
+        <div class="counter">
+            <i class="fa fa-user-graduate fa-2x"></i>
+            <h2 class="timer count-title count-number" data-to="500" data-speed="1500"></h2>
+            <p class="count-text">students</p>
+        </div>
+    </div>
+</div>
+
+<blockquote>
+    Teaching olympiad mathematics for the fifth year.<br>
+    Prepared 4 International Math Olympiad medalists,<br>
+    approximately 40 National Math Olympiad medalists,<br>
+    and took part in the education of more than 400 students.
+    <footer>
+        some statistics
+    </footer>
+</blockquote>
+
+<h1>
+    Timeline
+</h1>
+
 <div class="timeline">
     <div class="tlcontainer tlleft">
         <div class="tlcontent">
