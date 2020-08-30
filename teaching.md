@@ -96,7 +96,7 @@
                 July 2019 &mdash; MaTaBoo
             </h3>
             <p>
-                The best summer math school in Bukovyna, a wonderful countriside near Karpaty mountains.  This was the first time I used a website to publish my lectures.  It turned out to be a very convinient practice for both me and my students, as printing everything is not very ecology-friendly and somewhat messy.  You can found the lectures <a href="https://sky-nik.github.io/teaching/sources/mataboo/">here</a>.  
+                The best summer math school in Bukovyna, a wonderful countriside near Karpaty mountains.  This was the first time I used a website to publish my lectures.  It turned out to be a very convinient practice for both me and my students, as printing everything is not very ecology-friendly and somewhat messy.  You can find the lectures <a href="https://sky-nik.github.io/teaching/sources/mataboo/">here</a>.  
             </p>
         </div>
     </div>
@@ -149,6 +149,16 @@
             </p>
             <p>
                 I believe that my lectures were mostly compiled from the excellent russian book <a href="https://www.mccme.ru/free-books/olymp/matprob.pdf">Mathematics in Problems</a>.  A more extensive overview of such lectures can be found in the corresponding section for 2018.
+            </p>
+        </div>
+    </div>
+    <div class="tlcontainer tlleft">
+        <div class="tlcontent">
+            <h3>
+                August 2016 &mdash; Sosnovyi camp
+            </h3>
+            <p>
+                Straight after returning home from International Mathematical Olympiad i was invited to give several lectures at the preparation camp for the candidates for the next IMO.  I was one of the youngest lecturers here, and I definitely got a lot of valuable experience from the older ones.  Nevertheless, children seemed to like me and my materials, which got me thinking about teaching more.
             </p>
         </div>
     </div>
