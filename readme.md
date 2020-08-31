@@ -106,7 +106,7 @@ After retiring from olympiad mathematics I wanted to keep my mind busy with some
 </div>
 
 <p class="text-right">
-    <a href="/programming" class="btn btn-primary disabled" role="button" aria-disabled="true">
+    <a href="/programming.html" class="btn btn-primary" role="button">
         Read More
     </a>
 </p>
