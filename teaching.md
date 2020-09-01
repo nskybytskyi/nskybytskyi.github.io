@@ -1,3 +1,7 @@
+<script>
+    document.title = "The math I teach";
+</script>
+
 <h1>
     Statistics
 </h1>
