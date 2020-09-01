@@ -1,5 +1,5 @@
 <script>
-    document.title = "Oh wow, much education";
+  document.title = "Oh wow, much education";
 </script>
 
 <p class="mt-3">

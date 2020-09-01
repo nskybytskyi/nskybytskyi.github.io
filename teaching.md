@@ -2,6 +2,10 @@
     document.title = "The math I teach";
 </script>
 
+<p class="mt-3">
+    It is a more detailed description of what I teach and how I do it.
+</p>
+
 <h1>
     Statistics
 </h1>
@@ -18,7 +22,7 @@
         <div class="counter">
             <i class="fa fa-medal fa-2x"></i>
             <h2 class="timer count-title count-number" data-to="7" data-speed="1500"></h2>
-            <p class="count-text">IMO medals</p>
+            <p class="count-text">IMO&nbsp;medals</p>
         </div>
     </div>
     <div class="col">
