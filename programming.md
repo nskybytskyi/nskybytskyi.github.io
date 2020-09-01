@@ -66,6 +66,10 @@
     Add a paragraph mentioning specific Linux commands and utilities I am familiar with.
 </p>
 
+<p>
+    One last thing, there is an excellent <a href="books/linux-pocket-guide.pdf">book</a> that you definitely should have in yout pocket if you are a Linux user.  In general, I am a bit sceptical about the physical paper books and prefer to google everything, but this one is extremely convenient.  You can order a paperback copy <a href="https://www.amazon.com/Linux-Pocket-Guide-Essential-Commands-dp-1491927577/dp/1491927577">here</a>.
+</p>
+
 <h3>
     Git
 </h3>
@@ -77,6 +81,10 @@
 <blockquote>
     Being smart is good, but being smartass is evil.
 </blockquote>
+
+<p>
+    One last thing, there is an excellent <a href="books/git-pocket-guide.pdf">book</a> that you definitely should have in yout pocket if you are a git user.  In general, I am a bit sceptical about the physical paper books and prefer to google everything, but this one is extremely convenient.  You can order a paperback copy <a href="https://www.amazon.com/Git-Pocket-Guide-Working-Introduction/dp/1449325866">here</a>.
+</p>
 
 <h1>
     Web
