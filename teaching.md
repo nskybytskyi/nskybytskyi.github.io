@@ -1,7 +1,3 @@
-<script>
-    document.title = "The math I teach";
-</script>
-
 <p class="mt-3">
     It is a more detailed description of what I teach and how I do it.
 </p>
@@ -49,7 +45,15 @@
 </div>
 
 <h1>
-    Timeline
+    The Present
+</h1>
+
+<p>
+    In this semester I am going to give lectures at <a href="/teaching/polonsky.html">Polonsky</a> and at the <a href="/teaching/symplex-online.html">Symplex online</a> initiative.  Please check out the details there if you are interested.
+</p>
+
+<h1>
+    The Past Timeline
 </h1>
 
 <div class="timeline">
@@ -217,3 +221,7 @@
         </div>
     </div>
 </div>
+
+<script>
+    document.title = "The math I teach";
+</script>

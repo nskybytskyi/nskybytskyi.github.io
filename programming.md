@@ -1,7 +1,3 @@
-<script>
-    document.title = "The code I write";
-</script>
-
 <p class="mt-3">
     It is a more detailed description of what exactly I do with programming and why.
 </p>
@@ -95,7 +91,22 @@
 </h1>
 
 <p>
-    Well, I wrote this entire website.  It isn't something outstanding, but I think it's nice and clear.  Definitely I am not the expert in js, but I can phrase my questions good enough to find the answers in google, effectively copy-pasting the proposed solutions and make them work on my website.  What else can you ask of?
+    Well, I wrote this entire website.  It isn't something outstanding, but I think it's nice and clear.  Definitely I am not the expert in js, but I can phrase my questions good enough to find the answers in google, effectively copy-pasting the proposed solutions and make them work on my website.
+</p>
+
+<p>
+    Besides, I sometimes help to improve webites of math competitions-related Ukraianian organizations.  I once got the following comment during one such help session:
+</p>
+
+<blockquote>
+    Damn, I feel like a client of a web-designer from the memes 😒🤣
+    <footer>
+        Kateryna Gorokh
+    </footer>
+</blockquote>
+
+<p>
+    It reminds me of the following <a href="https://www.youtube.com/watch?v=BKorP55Aqvg">sketch</a>.
 </p>
 
 <h1>
@@ -115,7 +126,7 @@
 </h3>
 
 <p>
-    I registred on Codechef over two years ago, and like their Long Challenges, but don't compete often.  With 19 finished contest, my highest rating was 2174.  Link to my profile: <a href="https://www.codechef.com/users/sky_nik" style="color:black;"><span style="color:white;background-color:#ffbf00">5&starf;</span> sky_nik</a>.
+    I registred on Codechef over two years ago, and like their Long Challenges, but don't compete often.  With 19 finished contest, my highest rating was 2174.  Link to my profile: <a href="https://www.codechef.com/users/sky_nik" style="color:black;"><span style="color:white;background-color:#ffbf00">&nbsp;5&starf;&nbsp;</span> sky_nik</a>.
 </p>
 
 <h3>
@@ -164,3 +175,7 @@
 <p>
     In July 2019 the team consisting of Matthew Strechen, Stas Tomash, and me solved 8/14 problems on KPI Open, taking the 9<sup>th</sup> place overall out of about 100 teams.  Again, a dissapointing performance for such a great team, but it was yet another valuable experience.
 </p>
+
+<script>
+    document.title = "The code I write";
+</script>

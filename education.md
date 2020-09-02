@@ -1,7 +1,3 @@
-<script>
-  document.title = "Oh wow, much education";
-</script>
-
 <p class="mt-3">
   It is a more detailed description of my education.  It includes coursework, grades, achievements, projects, etc.
 </p>
@@ -363,3 +359,8 @@ Grouped by university.
   - Game Theory &mdash; 94%
 
   - Introduction to Machine Learning &mdash; 100%
+
+<script>
+  document.title = "Oh wow, much education";
+</script>
+
