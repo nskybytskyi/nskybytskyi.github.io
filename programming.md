@@ -106,30 +106,61 @@
     Codeforces
 </h3>
 
-<p class="text-warning">
-    Add a paragraph with some stats and links.
+<p>
+    I registred on Codeforces over three years ago, and like their problems, but don't compete often.  With 28 contest entries to date and 1071 questions solved in the problemset, I have a rating of 2138.  Link to my profile: <a href="https://codeforces.com/profile/Skybytskyi.Nikita" style="color:black;"><b><span style="color:#ff8c00">Master Skybytskyi.Nikita</span></b></a>.
 </p>
 
 <h3>
     Codechef
 </h3>
 
-<p class="text-warning">
-    Add a paragraph with some stats and links.
+<p>
+    I registred on Codechef over two years ago, and like their Long Challenges, but don't compete often.  With 19 finished contest, my highest rating was 2174.  Link to my profile: <a href="https://www.codechef.com/users/sky_nik" style="color:black;"><span style="color:white;background-color:#ffbf00">5&starf;</span> sky_nik</a>.
 </p>
 
 <h3>
-    Hackerrank
+    HackerRank
 </h3>
 
-<p class="text-warning">
-    Add a paragraph with some stats and links.
+<p>
+    I registred on HackerRank over three years ago, but they don't host many contests.  With only 8 contest entries, my highest rating was 2185.  I used it rather for learning than for competetive programming.  I have several certificates, badges, and medals there, but have no idea about how valuable or rare those are xD.  Link to my profile: <a href="https://www.hackerrank.com/nskybytskyi">@nskybytskyi</a>.
 </p>
 
 <h3>
-    Leetcode
+    LeetCode
 </h3>
 
-<p class="text-warning">
-    Add a paragraph with some stats and links.
+<p>
+    As you probably already know, LeetCode is more about interview preparation than about competetive programming.  Still, preparing via competing is much more fun.  With 16 finished contest and 774 questions solved in the problemset, my highest rating was 2526.  During these contests and daily challanges I was able to collect enough leetcoins to redeem a T-shirt.  Link to my profile: <a href="https://leetcode.com/nskybytskyi/">@nskybytskyi</a>.
+</p>
+
+<div class="row">
+    <div class="col-12 text-center">
+        <h5>your face when you get a LeetCode T-shirt</h5>
+        <img src="./assets/leetcode.jpg" alt="leetcode-shirt" class="rounded-circle img-fluid" data-holder-rendered="true">
+    </div>
+</div>
+
+<h3>
+    Team competitions
+</h3>
+
+<p>
+    Not a big fan of these, but my friends managed to get me involved into two such events.
+</p>
+
+<h5>
+    ACM ICPC &mdash; Stage I of 2019 All-Ukrianian Competition
+</h5>
+
+<p>
+    In April 2019 the team consisting of Andrew Khoma, Alexey Bashuk, and me solved 10/12 problems on the first stage of the All-Ukrainian competition, taking something like 12<sup>th</sup> place in our region out of about 100 teams.  However, it wasn't good enough to get to the second stage.  To be honest, it felt a bit frustrating, because in math I used to win National level competitions.  Nevertheless, it was a valuable experience.
+</p>
+
+<h5>
+    KPI Open 2019
+</h5>
+
+<p>
+    In July 2019 the team consisting of Matthew Strechen, Stas Tomash, and me solved 8/14 problems on KPI Open, taking the 9<sup>th</sup> place overall out of about 100 teams.  Again, a dissapointing performance for such a great team, but it was yet another valuable experience.
 </p>
