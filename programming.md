@@ -95,7 +95,22 @@
 </h1>
 
 <p>
-    Well, I wrote this entire website.  It isn't something outstanding, but I think it's nice and clear.  Definitely I am not the expert in js, but I can phrase my questions good enough to find the answers in google, effectively copy-pasting the proposed solutions and make them work on my website.  What else can you ask of?
+    Well, I wrote this entire website.  It isn't something outstanding, but I think it's nice and clear.  Definitely I am not the expert in js, but I can phrase my questions good enough to find the answers in google, effectively copy-pasting the proposed solutions and make them work on my website.
+</p>
+
+<p>
+    Besides, I sometimes help to improve webites of math competitions-related Ukraianian organizations.  I once got the following comment during one such help session:
+</p>
+
+<blockquote>
+    Damn, I feel like a client of a web-designer from the memes 😒🤣
+    <footer>
+        Kateryna Gorokh
+    </footer>
+</blockquote>
+
+<p>
+    It reminds me of the following <a href="https://www.youtube.com/watch?v=BKorP55Aqvg">sketch</a>.
 </p>
 
 <h1>
