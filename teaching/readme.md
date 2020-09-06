@@ -49,7 +49,7 @@
 </h1>
 
 <p>
-    In this semester I am going to give lectures at <a href="/teaching/polonsky.html">Polonsky</a> and at the <a href="/teaching/symplex-online.html">Symplex online</a> initiative.  Please check out the details there if you are interested.
+    In this semester I am going to give lectures at <a href="/teaching/polonsky/">Polonsky</a> and at the <a href="/teaching/symplex-online/">Symplex online</a> initiative.  Please check out the details there if you are interested.
 </p>
 
 <h1>
