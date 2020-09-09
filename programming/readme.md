@@ -148,7 +148,7 @@
 <div class="row">
     <div class="col-12 text-center">
         <h5>your face when you get a LeetCode T-shirt</h5>
-        <img src="./assets/leetcode.jpg" alt="leetcode-shirt" class="rounded-circle img-fluid" data-holder-rendered="true">
+        <img src="/assets/leetcode.jpg" alt="leetcode-shirt" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
 
