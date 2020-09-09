@@ -1,6 +1,22 @@
 <h1>
-    Native
+    How to learn?
 </h1>
+
+<p class="text-warning">
+    Add a paragraph about lerning techniques in general.
+</p>
+
+<p class="text-warning">
+    Add a paragraph about Doulingo and Anki in particular.
+</p>
+
+<h1>
+    Languages
+</h1>
+
+<h3>
+    Native
+</h3>
 
 <div class="row">
     <div class="col-6">
@@ -11,9 +27,9 @@
     </div>
 </div>
 
-<h1>
+<h3>
     Use it all the time
-</h1>
+</h3>
 
 <div class="row">
     <div class="col-6">
@@ -28,9 +44,9 @@
     Add a paragraph explaining that British and American are two different versions of English.
 </p>
 
-<h1>
+<h3>
     Learned a bit for fun
-</h1>
+</h3>
 
 <div class="row">
     <div class="col-6">
@@ -48,11 +64,3 @@
         <img src="/assets/flags/DE.svg" alt="de-flag" width="75%">
     </div>
 </div>
-
-<p class="text-warning">
-    Add a paragraph about lerning techniques in general.
-</p>
-
-<p class="text-warning">
-    Add a paragraph about Doulingo and Anki in particular.
-</p>

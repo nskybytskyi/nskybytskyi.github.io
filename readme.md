@@ -105,6 +105,8 @@ After retiring from olympiad mathematics I wanted to keep my mind busy with some
     </div>
 </div>
 
+<p></p>
+
 <p class="text-right">
     <a href="/programming/" class="btn btn-primary" role="button">
         Read More
@@ -136,6 +138,8 @@ I also teach online and abroad.  Check out my [telegram channel](https://t.me/th
         <img src="./assets/children.jpg" alt="image-of-children" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
+
+<p></p>
 
 <p class="text-right">
     <a href="/teaching/" class="btn btn-primary" role="button">
@@ -250,6 +254,8 @@ I do draw sometimes.  I do, however, plot <em>a bit</em> more often.  I consider
         <img src="./assets/viskonsin.jpg" alt="plotting-in-matplotlib" class="rounded-circle img-fluid" data-holder-rendered="true">
     </div>
 </div>
+
+<p></p>
 
 <p class="text-right">
     <a href="/art" class="btn btn-primary disabled" role="button" aria-disabled="true">
