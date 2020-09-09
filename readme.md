@@ -168,7 +168,7 @@ I also like learning real languages.  However, my approach is rather intuitive a
 I try to take a glimpse of many different languages.  In particular, I tried Spanish, French, Polish, and Czech.  Helps a lot to understand the general structures present in all languages.  Sometimes even helps to get a feeling of how native speakers think in their language.  I bet AIs from nearest future will tie linguistic background to some personality traits. 
 
 <p class="text-right">
-    <a href="/languages" class="btn btn-primary disabled" role="button" aria-disabled="true">
+    <a href="/languages" class="btn btn-primary" role="button">
         Read More
     </a>
 </p>
