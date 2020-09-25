@@ -144,7 +144,7 @@
                 Summer math school conducted by my former school annually since 2005.  As a student, I participated in it three times, and these summers were cool!
             </p>
             <p>
-                The approximate level of participants was the National Olympiad diploma and city olympiad prize places.  I was an invited lecturer in grades from 7<sup>th</sup> to 11<sup>th</sup> and conducted about a dozen lectures.  A complete collection of my materials is <a href="./assets/mudramakitra.pdf">here</a>.
+                The approximate level of participants was the National Olympiad diploma and city olympiad prize places.  I was an invited lecturer in grades from 7<sup>th</sup> to 11<sup>th</sup> and conducted about a dozen lectures.  A complete collection of my materials is <a href="/teaching/assets/mudramakitra.pdf">here</a>.
             </p>
         </div>
     </div>
@@ -180,7 +180,7 @@
                 Summer math school conducted in Ukrainian Mathematics and Physics Lyceum (UPML) almost annually.  The approximate level of participants was the National Olympiad diploma and city olympiad prize places.
             </p>
             <p>
-                This year I participated in this school as a Head Lecturer for junior (10<sup>th</sup>) and senior (11<sup>th</sup>) students.  A complete collection of our lectures based on the excellent Russian book <a href="https://www.mccme.ru/free-books/olymp/matprob.pdf">Mathematics in Problems</a> is <a href="./assets/umpl-sms.pdf">here</a>.
+                This year I participated in this school as a Head Lecturer for junior (10<sup>th</sup>) and senior (11<sup>th</sup>) students.  A complete collection of our lectures based on the excellent Russian book <a href="https://www.mccme.ru/free-books/olymp/matprob.pdf">Mathematics in Problems</a> is <a href="/teaching/assets/umpl-sms.pdf">here</a>.
             </p>
         </div>
     </div>
@@ -193,7 +193,7 @@
                It is a year-round preparation program for mathematical olympiads for students of 1<sup>st</sup> &ndash; 8<sup>th</sup> grades.  I taught in classes from 6<sup>th</sup> to 8<sup>th</sup> and was the chief lecturer for these groups.  Under my supervision children won more than a half of city olympiad first places in their grades and a couple of first places at the experimental National Olympiad for classes from 5 to 7.
             </p>
             <p>
-                A complete collection of my lectures for 7<sup>th</sup>-grade students is <a href="./assets/digit-7.pdf">here</a>.  Beware!  It is 41 pages long and contains 463 problems.  Yet another compilation of tasks for the independent study proposed to the students as a summer homework is <a href="./assets/digit-summer.pdf">here</a>, consisting of 17 pages and 170 questions.  A partial collection (autumn lectures only) of the materials for 8<sup>th</sup>-grade students is <a href="./assets/digit-8.pdf">here</a>.  It is relatively short, having 13 pages and 143 problems only. 
+                A complete collection of my lectures for 7<sup>th</sup>-grade students is <a href="/teaching/assets/digit-7.pdf">here</a>.  Beware!  It is 41 pages long and contains 463 problems.  Yet another compilation of tasks for the independent study proposed to the students as a summer homework is <a href="/teaching/assets/digit-summer.pdf">here</a>, consisting of 17 pages and 170 questions.  A partial collection (autumn lectures only) of the materials for 8<sup>th</sup>-grade students is <a href="/teaching/assets/digit-8.pdf">here</a>.  It is relatively short, having 13 pages and 143 problems only. 
             </p>
         </div>
     </div>
