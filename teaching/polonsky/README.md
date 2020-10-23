@@ -12,7 +12,7 @@
     </div>
     <p></p>
     <div class="col-12 col-md-7">
-        <iframe width="100%" height="500px" src="https://www.youtube.com/embed/PK67lDoTsy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="500px" src="https://www.youtube.com/embed/PK67lDoTsy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 <p></p>
@@ -22,13 +22,23 @@
     </div>
     <p></p>
     <div class="col-12 col-md-7">
-        <iframe width="100%" height="500px" src="https://www.youtube.com/embed/tDLVoLf6LO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="500px" src="https://www.youtube.com/embed/tDLVoLf6LO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 <p></p>
 <div class="row">
     <div class="col-12 col-md-5">
-        <!-- <iframe src="/teaching/polonsky/demo/C2-cell-combinatorics.pdf" width="100%" height="500px"></iframe> -->
+        <iframe src="/teaching/polonsky/demo/A2-vector.pdf" width="100%" height="500px"></iframe>
+    </div>
+    <p></p>
+    <div class="col-12 col-md-7">
+        <iframe width="100%" height="500px" src="https://www.youtube.com/embed/Uym37qpz7HI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+<p></p>
+<div class="row">
+    <div class="col-12 col-md-5">
+        <!-- <iframe src="/teaching/polonsky/demo/.pdf" width="100%" height="500px"></iframe> -->
     </div>
     <p></p>
     <div class="col-12 col-md-7">
@@ -38,7 +48,7 @@
 <p></p>
 <div class="row">
     <div class="col-12 col-md-5">
-        <!-- <iframe src="/teaching/polonsky/demo/C2-cell-combinatorics.pdf" width="100%" height="500px"></iframe> -->
+        <!-- <iframe src="/teaching/polonsky/demo/.pdf" width="100%" height="500px"></iframe> -->
     </div>
     <p></p>
     <div class="col-12 col-md-7">
@@ -48,17 +58,7 @@
 <p></p>
 <div class="row">
     <div class="col-12 col-md-5">
-        <!-- <iframe src="/teaching/polonsky/demo/C2-cell-combinatorics.pdf" width="100%" height="500px"></iframe> -->
-    </div>
-    <p></p>
-    <div class="col-12 col-md-7">
-        <!-- <iframe width="100%" height="500px" src="https://www.youtube.com/embed/PK67lDoTsy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-    </div>
-</div>
-<p></p>
-<div class="row">
-    <div class="col-12 col-md-5">
-        <!-- <iframe src="/teaching/polonsky/demo/C2-cell-combinatorics.pdf" width="100%" height="500px"></iframe> -->
+        <!-- <iframe src="/teaching/polonsky/demo/.pdf" width="100%" height="500px"></iframe> -->
     </div>
     <p></p>
     <div class="col-12 col-md-7">
