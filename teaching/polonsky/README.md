@@ -28,7 +28,7 @@
 <p></p>
 <div class="row">
     <div class="col-12 col-md-5">
-        <iframe src="/teaching/polonsky/demo/A2-vector.pdf" width="100%" height="500px"></iframe>
+        <iframe src="/teaching/polonsky/demo/A2-vectors.pdf" width="100%" height="500px"></iframe>
     </div>
     <p></p>
     <div class="col-12 col-md-7">
