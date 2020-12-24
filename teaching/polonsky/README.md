@@ -25,7 +25,7 @@
 </h2>
 
 <div class="row">
-    <div class="col-12">
+    <div class="col-12 iframe-container">
         <iframe width="100%" src="https://www.youtube.com/embed/PK67lDoTsy8?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
@@ -35,7 +35,7 @@
 </h2>
 
 <div class="row">
-    <div class="col-12">
+    <div class="col-12 iframe-container">
         <iframe width="100%" src="https://www.youtube.com/embed/Pv_MbcD8LUQ?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
@@ -45,7 +45,7 @@
 </h2>
 
 <div class="row">
-    <div class="col-12">
+    <div class="col-12 iframe-container">
         <iframe width="100%" src="https://www.youtube.com/embed/Uym37qpz7HI?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
@@ -55,7 +55,7 @@
 </h2>
 
 <div class="row">
-    <div class="col-12">
+    <div class="col-12 iframe-container">
         <iframe width="100%" src="https://www.youtube.com/embed/ExcP4YsH0Gc?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
@@ -65,7 +65,7 @@
 </h2>
 
 <div class="row">
-    <div class="col-12">
+    <div class="col-12 iframe-container">
         <iframe width="100%" src="https://www.youtube.com/embed/sRFWTVD89Qg?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
@@ -75,7 +75,7 @@
 </h2>
 
 <div class="row">
-    <div class="col-12">
+    <div class="col-12 iframe-container">
         <iframe width="100%" src="https://www.youtube.com/embed/WDeaqATZJxw?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
@@ -85,7 +85,7 @@
 </h2>
 
 <div class="row">
-    <div class="col-12">
+    <div class="col-12 iframe-container">
         <iframe width="100%" src="https://www.youtube.com/embed/6KupsVWmrw4?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
