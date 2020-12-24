@@ -3,65 +3,89 @@
 </h1>
 
 <p>
-    This page will contain the demos of my lectures at Polonsky.  Note that the complete problemsets and videos usually contain 3&ndash;5 times more information.
+    Polonsky math club is a colloborative project of several teachers, including Fedir Yudin, Vadym Koval, Oles' Golembovsky, Kateryna Horokh, Mykyta Shcheglov, Mykhailo Shtandenko, and myself.
+</p>
+
+<p>
+    It consists of three groups of various levels: Junior, Senior, and IMO. The selection to the club happens based on the multiple official events happening during the olympiad season.
 </p>
 
 <div class="row">
-    <div class="col-12 col-md-5">
-        <iframe src="/teaching/polonsky/demo/C1-binomial-counting.pdf" width="100%" height="500px"></iframe>
-    </div>
-    <p></p>
-    <div class="col-12 col-md-7">
-        <iframe width="100%" height="500px" src="https://www.youtube.com/embed/PK67lDoTsy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="col-12">
+        <img width="100%" src="./students.png" alt="image-of-me-with-polonsky-senior-students">
     </div>
 </div>
-<p></p>
+
+<p>
+    This year (2020) we had to switch to online format, which allowed us to record the lectures easier. As a consequence, we are now ready to release some of our lectures to the public.
+</p>
+
+<h2>
+    Lecture 1: Binomial Coefficients
+</h2>
+
 <div class="row">
-    <div class="col-12 col-md-5">
-        <iframe src="/teaching/polonsky/demo/C2-cell-combinatorics.pdf" width="100%" height="500px"></iframe>
-    </div>
-    <p></p>
-    <div class="col-12 col-md-7">
-        <iframe width="100%" height="500px" src="https://www.youtube.com/embed/tDLVoLf6LO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="col-12">
+        <iframe width="100%" src="https://www.youtube.com/embed/PK67lDoTsy8?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
-<p></p>
+
+<h2>
+    Lecture 4: Cell Combinatorics
+</h2>
+
 <div class="row">
-    <div class="col-12 col-md-5">
-        <iframe src="/teaching/polonsky/demo/A2-vectors.pdf" width="100%" height="500px"></iframe>
-    </div>
-    <p></p>
-    <div class="col-12 col-md-7">
-        <iframe width="100%" height="500px" src="https://www.youtube.com/embed/Uym37qpz7HI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="col-12">
+        <iframe width="100%" src="https://www.youtube.com/embed/Pv_MbcD8LUQ?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
-<p></p>
+
+<h2>
+    Lecture 9: Vectors
+</h2>
+
 <div class="row">
-    <div class="col-12 col-md-5">
-        <iframe src="/teaching/polonsky/demo/N3-continued-fractions.pdf" width="100%" height="500px"></iframe>
-    </div>
-    <p></p>
-    <div class="col-12 col-md-7">
-        <iframe width="100%" height="500" src="https://www.youtube.com/embed/ExcP4YsH0Gc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="col-12">
+        <iframe width="100%" src="https://www.youtube.com/embed/Uym37qpz7HI?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
-<p></p>
+
+<h2>
+    Lecture 13: Continued Fractions
+</h2>
+
 <div class="row">
-    <div class="col-12 col-md-5">
-        <iframe src="/teaching/polonsky/demo/C5-pigeonhole-principle.pdf" width="100%" height="500px"></iframe>
-    </div>
-    <p></p>
-    <div class="col-12 col-md-7">
-        <iframe width="100%" height="500" src="https://www.youtube.com/embed/sRFWTVD89Qg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="col-12">
+        <iframe width="100%" src="https://www.youtube.com/embed/ExcP4YsH0Gc?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
-<p></p>
+
+<h2>
+    Lecture 15: Pigeonhole Principle
+</h2>
+
 <div class="row">
-    <div class="col-12 col-md-5">
-        <!-- <iframe src="/teaching/polonsky/demo/.pdf" width="100%" height="500px"></iframe> -->
+    <div class="col-12">
+        <iframe width="100%" src="https://www.youtube.com/embed/sRFWTVD89Qg?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <p></p>
-    <div class="col-12 col-md-7">
-        <!-- <iframe width="100%" height="500px" src="https://www.youtube.com/embed/PK67lDoTsy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+</div>
+
+<h2>
+    Lecture 21: Processes and Operations
+</h2>
+
+<div class="row">
+    <div class="col-12">
+        <iframe width="100%" src="https://www.youtube.com/embed/WDeaqATZJxw?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
+<h2>
+    Lecture 23: Not-so-Fine Inequalities
+</h2>
+
+<div class="row">
+    <div class="col-12">
+        <iframe width="100%" src="https://www.youtube.com/embed/6KupsVWmrw4?list=PL5XMnwBFMSgcbCksZaIdDvDyXyabP0Qao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
