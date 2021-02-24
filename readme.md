@@ -14,7 +14,7 @@
 From 2009 to 2016 I studied at physics and mathematics lyceum in Kyiv.  I participated in a lot of different competitions, ranging from city geography olympiad and national chemistry olympiad to 2016 [International Mathematical Olympiad](http://imo-official.org/participant_r.aspx?id=26730) (IMO).  I won many different awards in many different subjects, even though my main focus always remained on mathematics. 
 
 <blockquote>
-    You could won gold at IMO if you have studied more. <br>
+    You could have won gold at IMO if you have studied more. <br>
     Nevertheless, I am still very proud of you.
     <footer>
         My dad.
